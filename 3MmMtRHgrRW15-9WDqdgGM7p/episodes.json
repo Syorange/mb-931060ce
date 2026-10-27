@@ -25,5 +25,19 @@
   "guid": "kaylee-2026-10-27-wn-am-714d15ff",
   "pubDate": "Wed, 28 Oct 2026 00:04:43 +1000",
   "pubDate_iso": "2026-10-28T00:04:43.408404+10:00"
+ },
+ {
+  "id": "2026-10-28-brief",
+  "type": "brief",
+  "date": "2026-10-28",
+  "file": "2026-10-28-brief.mp3",
+  "title": "美股晨间新闻｜10月28日｜Oracle拉来AI盟友，Boeing交付失速",
+  "desc": "AI行情连涨两天，Oracle宣布和OpenAI、Nvidia、Google、Cerebras的合作；Boeing下调交付目标大跌；Fed今天公布决议，油价因中东外交回落。",
+  "link": null,
+  "bytes": 15638746,
+  "duration": "00:21:12",
+  "guid": "kaylee-2026-10-28-brief-1f477334",
+  "pubDate": "Wed, 28 Oct 2026 07:19:04 +1000",
+  "pubDate_iso": "2026-10-28T07:19:04.085578+10:00"
  }
 ]
