@@ -7,6 +7,23 @@
   "bytes": 21890596,
   "duration": "00:22:25",
   "guid": "kaylee-briefing-2026-10-27-eabb9ad5",
-  "pubDate": "Tue, 27 Oct 2026 13:18:40 +1000"
+  "pubDate": "Tue, 27 Oct 2026 13:18:40 +1000",
+  "type": "brief",
+  "id": "2026-10-27",
+  "pubDate_iso": "2026-10-27T13:18:40+10:00"
+ },
+ {
+  "id": "2026-10-27-wn-am",
+  "type": "wn-am",
+  "date": "2026-10-27",
+  "file": "2026-10-27-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 10月27日｜Broadcom出手，帮Anthropic借钱买更多芯片",
+  "desc": "Anthropic公布IPO文件后数小时，又宣布一笔约630亿美元的贷款交易，为AI基础设施扩张提供资金。WSJ记者Ben Dummett解析Broadcom CEO如何出面促成这笔被批评为“循环融资”的交易；科技记者Amrith Ramkumar介绍可能收紧数据中心开发的期中选举；另有欧洲天然气储备、FTC起诉Dollar General，以及Jay-Z将主秀超级碗中场秀。\n原节目：WSJ What's News「The Chip Giant Helping Anthropic Buy More Chips」（美东10月27日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5",
+  "link": "https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5",
+  "bytes": 12420208,
+  "duration": "00:16:44",
+  "guid": "kaylee-2026-10-27-wn-am-714d15ff",
+  "pubDate": "Wed, 28 Oct 2026 00:04:43 +1000",
+  "pubDate_iso": "2026-10-28T00:04:43.408404+10:00"
  }
 ]
