@@ -81,5 +81,19 @@
   "guid": "kaylee-2026-10-28-wn-pm-d8cb470a",
   "pubDate": "Thu, 29 Oct 2026 12:07:20 +1000",
   "pubDate_iso": "2026-10-29T12:07:20.798697+10:00"
+ },
+ {
+  "id": "2026-10-29-brief",
+  "type": "brief",
+  "date": "2026-10-29",
+  "file": "2026-10-29-brief.mp3",
+  "title": "美股晨间新闻｜10月29日｜Alphabet盘后重挫，AI开始拼现金流",
+  "desc": "Microsoft与Alphabet财报两极分化、Oracle承诺限制融资大涨、Fed会后市场解读、软件股重挫与今晚PCE和Amazon财报。",
+  "link": null,
+  "bytes": 18354503,
+  "duration": "00:24:58",
+  "guid": "kaylee-2026-10-29-brief-b8376a22",
+  "pubDate": "Thu, 29 Oct 2026 12:14:42 +1000",
+  "pubDate_iso": "2026-10-29T12:14:42.510752+10:00"
  }
 ]
