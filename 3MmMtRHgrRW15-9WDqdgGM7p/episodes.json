@@ -109,5 +109,19 @@
   "guid": "kaylee-2026-10-29-wn-am-82eb0059",
   "pubDate": "Thu, 29 Oct 2026 23:11:55 +1000",
   "pubDate_iso": "2026-10-29T23:11:55.453233+10:00"
+ },
+ {
+  "id": "2026-10-30-brief",
+  "type": "brief",
+  "date": "2026-10-30",
+  "file": "2026-10-30-brief.mp3",
+  "title": "美股晨间新闻｜10月30日｜AI现金流大考：Alphabet暴跌，Amazon与Intel盘后重挫",
+  "desc": "Alphabet创历史最大单日跌幅，Amazon和Intel盘后大跌，软件股再遭重创，经济数据偏强、Fed加息预期仍在。",
+  "link": null,
+  "bytes": 15824791,
+  "duration": "00:21:28",
+  "guid": "kaylee-2026-10-30-brief-a78c3e79",
+  "pubDate": "Fri, 30 Oct 2026 07:16:52 +1000",
+  "pubDate_iso": "2026-10-30T07:16:52.938584+10:00"
  }
 ]
