@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-10-28-brief",
-  "type": "brief",
-  "date": "2026-10-28",
-  "file": "2026-10-28-brief.mp3",
-  "title": "美股晨间新闻｜10月28日｜Oracle拉来AI盟友，Boeing交付失速",
-  "desc": "AI行情连涨两天，Oracle宣布和OpenAI、Nvidia、Google、Cerebras的合作；Boeing下调交付目标大跌；Fed今天公布决议，油价因中东外交回落。",
-  "link": null,
-  "bytes": 15638746,
-  "duration": "00:21:12",
-  "guid": "kaylee-2026-10-28-brief-1f477334",
-  "pubDate": "Wed, 28 Oct 2026 07:19:04 +1000",
-  "pubDate_iso": "2026-10-28T07:19:04.085578+10:00"
- },
- {
   "id": "2026-10-27-wn-pm",
   "type": "wn-pm",
   "date": "2026-10-27",
@@ -124,5 +110,19 @@
   "guid": "kaylee-2026-10-30-wn-am-f4a21ced",
   "pubDate": "Sat, 31 Oct 2026 00:46:34 +1000",
   "pubDate_iso": "2026-10-31T00:46:34.853533+10:00"
+ },
+ {
+  "id": "2026-10-30-wn-bonus",
+  "type": "wn-bonus",
+  "date": "2026-10-30",
+  "file": "2026-10-30-wn-bonus.mp3",
+  "title": "What's News 中文版｜特别加播 10月30日｜UPS和FedEx如何借柴油成本推高营收",
+  "desc": "快递公司这周形容美国消费者依然有韧性。UPS和FedEx营收增长超出华尔街预期，并上调全年展望；虽然能源成本上升推高了开支，但两家都受益于与柴油价格挂钩的更高燃油附加费。铁路公司也因柴油涨价而受益，因为不少企业把运输从卡车转向铁路。Pierre Bienaimé主持这期What's News in Earnings特别加更节目。\n原节目：WSJ What's News「How UPS and FedEx Are Riding Diesel Costs to Higher Revenues」（美东10月30日 bonus）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/how-ups-and-fedex-are-riding-diesel-costs-to-higher-revenues/2973662B-9D2E-4F7A-AAEB-30EDEED15134",
+  "link": "https://www.wsj.com/podcasts/whats-news/how-ups-and-fedex-are-riding-diesel-costs-to-higher-revenues/2973662B-9D2E-4F7A-AAEB-30EDEED15134",
+  "bytes": 4033671,
+  "duration": "00:05:06",
+  "guid": "kaylee-2026-10-30-wn-bonus-48a41c15",
+  "pubDate": "Sat, 31 Oct 2026 07:53:07 +1000",
+  "pubDate_iso": "2026-10-31T07:53:07.895679+10:00"
  }
 ]
