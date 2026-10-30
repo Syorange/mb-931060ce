@@ -13,7 +13,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 30 Oct 2026 10:38:53 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:46:34 +1000</lastBuildDate>
+    <item>
+      <title>What&#x27;s News 中文版｜早间版 10月30日｜AI交易阴风阵阵</title>
+      <description>10月30日早间版。Amazon和Intel的财报加剧了市场对AI交易的担忧，本周的科技股抛售愈演愈烈。另外，Binance成为史上最大网络盗窃案的目标，Alexander Osipovich带来详细报道；可可豆短缺加剧，糖果商纷纷进实验室寻找巧克力替代品。主持人Luke Vargas。
+原节目：WSJ What&#x27;s News「The AI Trade Gets Spooky」（美东10月30日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A</description>
+      <itunes:summary>10月30日早间版。Amazon和Intel的财报加剧了市场对AI交易的担忧，本周的科技股抛售愈演愈烈。另外，Binance成为史上最大网络盗窃案的目标，Alexander Osipovich带来详细报道；可可豆短缺加剧，糖果商纷纷进实验室寻找巧克力替代品。主持人Luke Vargas。
+原节目：WSJ What&#x27;s News「The AI Trade Gets Spooky」（美东10月30日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A</itunes:summary>
+      <content:encoded><![CDATA[10月30日早间版。Amazon和Intel的财报加剧了市场对AI交易的担忧，本周的科技股抛售愈演愈烈。另外，Binance成为史上最大网络盗窃案的目标，Alexander Osipovich带来详细报道；可可豆短缺加剧，糖果商纷纷进实验室寻找巧克力替代品。主持人Luke Vargas。<br/>原节目：WSJ What&#x27;s News「The AI Trade Gets Spooky」（美东10月30日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A<br/><br/>原节目 / Original: <a href="https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A">https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A</a>]]></content:encoded>
+      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-10-30-wn-am.mp3" length="11303951" type="audio/mpeg"/>
+      <guid isPermaLink="false">kaylee-2026-10-30-wn-am-f4a21ced</guid>
+      <pubDate>Sat, 31 Oct 2026 00:46:34 +1000</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
+    </item>
     <item>
       <title>What&#x27;s News 中文版｜晚间版 10月29日｜美国经济迎来一年来最强季度</title>
       <description>美国GDP夏季增长3.4%，超出预期。《华尔街日报》经济记者Konrad Putzier讲述消费者和AI建设如何推动增长，以及强劲数据可能如何影响美联储。另外，摇摆选民比过去少了，但《华尔街日报》全国政治记者Eliza Collins解释说，President Trump 2024年联盟中的部分群体，包括Gen Z选民、Hispanic选民甚至农民，可能都在被争夺；而令人失望的财报加上对AI交易的担忧，让Alphabet股价迎来史上最糟糕的一天，市值蒸发近五千亿美元。主持人Alex Ossola。
@@ -124,34 +139,6 @@
       <guid isPermaLink="false">kaylee-2026-10-28-brief-1f477334</guid>
       <pubDate>Wed, 28 Oct 2026 07:19:04 +1000</pubDate>
       <itunes:duration>00:21:12</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
-    </item>
-    <item>
-      <title>What&#x27;s News 中文版｜早间版 10月27日｜Broadcom出手，帮Anthropic借钱买更多芯片</title>
-      <description>Anthropic公布IPO文件后数小时，又宣布一笔约630亿美元的贷款交易，为AI基础设施扩张提供资金。WSJ记者Ben Dummett解析Broadcom CEO如何出面促成这笔被批评为“循环融资”的交易；科技记者Amrith Ramkumar介绍可能收紧数据中心开发的期中选举；另有欧洲天然气储备、FTC起诉Dollar General，以及Jay-Z将主秀超级碗中场秀。
-原节目：WSJ What&#x27;s News「The Chip Giant Helping Anthropic Buy More Chips」（美东10月27日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5</description>
-      <itunes:summary>Anthropic公布IPO文件后数小时，又宣布一笔约630亿美元的贷款交易，为AI基础设施扩张提供资金。WSJ记者Ben Dummett解析Broadcom CEO如何出面促成这笔被批评为“循环融资”的交易；科技记者Amrith Ramkumar介绍可能收紧数据中心开发的期中选举；另有欧洲天然气储备、FTC起诉Dollar General，以及Jay-Z将主秀超级碗中场秀。
-原节目：WSJ What&#x27;s News「The Chip Giant Helping Anthropic Buy More Chips」（美东10月27日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5</itunes:summary>
-      <content:encoded><![CDATA[Anthropic公布IPO文件后数小时，又宣布一笔约630亿美元的贷款交易，为AI基础设施扩张提供资金。WSJ记者Ben Dummett解析Broadcom CEO如何出面促成这笔被批评为“循环融资”的交易；科技记者Amrith Ramkumar介绍可能收紧数据中心开发的期中选举；另有欧洲天然气储备、FTC起诉Dollar General，以及Jay-Z将主秀超级碗中场秀。<br/>原节目：WSJ What&#x27;s News「The Chip Giant Helping Anthropic Buy More Chips」（美东10月27日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5<br/><br/>原节目 / Original: <a href="https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5">https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5</a>]]></content:encoded>
-      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-10-27-wn-am.mp3" length="12420208" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaylee-2026-10-27-wn-am-714d15ff</guid>
-      <pubDate>Wed, 28 Oct 2026 00:04:43 +1000</pubDate>
-      <itunes:duration>00:16:44</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
-    </item>
-    <item>
-      <title>10月27日｜Anthropic递交上市申请，Meta计划最高950亿美元融资</title>
-      <description>今日主线：Anthropic递交S-1、Meta巨额股票融资、油价与中东局势、本周Fed会议与巨头财报。</description>
-      <itunes:summary>今日主线：Anthropic递交S-1、Meta巨额股票融资、油价与中东局势、本周Fed会议与巨头财报。</itunes:summary>
-      <content:encoded><![CDATA[今日主线：Anthropic递交S-1、Meta巨额股票融资、油价与中东局势、本周Fed会议与巨头财报。]]></content:encoded>
-      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-10-27.mp3" length="21890596" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaylee-briefing-2026-10-27-eabb9ad5</guid>
-      <pubDate>Tue, 27 Oct 2026 13:18:40 +1000</pubDate>
-      <itunes:duration>00:22:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>

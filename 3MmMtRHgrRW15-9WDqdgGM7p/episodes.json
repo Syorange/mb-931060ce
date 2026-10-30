@@ -1,32 +1,5 @@
 [
  {
-  "date": "2026-10-27",
-  "file": "2026-10-27.mp3",
-  "title": "10月27日｜Anthropic递交上市申请，Meta计划最高950亿美元融资",
-  "desc": "今日主线：Anthropic递交S-1、Meta巨额股票融资、油价与中东局势、本周Fed会议与巨头财报。",
-  "bytes": 21890596,
-  "duration": "00:22:25",
-  "guid": "kaylee-briefing-2026-10-27-eabb9ad5",
-  "pubDate": "Tue, 27 Oct 2026 13:18:40 +1000",
-  "type": "brief",
-  "id": "2026-10-27",
-  "pubDate_iso": "2026-10-27T13:18:40+10:00"
- },
- {
-  "id": "2026-10-27-wn-am",
-  "type": "wn-am",
-  "date": "2026-10-27",
-  "file": "2026-10-27-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 10月27日｜Broadcom出手，帮Anthropic借钱买更多芯片",
-  "desc": "Anthropic公布IPO文件后数小时，又宣布一笔约630亿美元的贷款交易，为AI基础设施扩张提供资金。WSJ记者Ben Dummett解析Broadcom CEO如何出面促成这笔被批评为“循环融资”的交易；科技记者Amrith Ramkumar介绍可能收紧数据中心开发的期中选举；另有欧洲天然气储备、FTC起诉Dollar General，以及Jay-Z将主秀超级碗中场秀。\n原节目：WSJ What's News「The Chip Giant Helping Anthropic Buy More Chips」（美东10月27日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5",
-  "link": "https://www.wsj.com/podcasts/whats-news/the-chip-giant-helping-anthropic-buy-more-chips/f1297474-8e5f-4e3f-a077-d370a80e11b5",
-  "bytes": 12420208,
-  "duration": "00:16:44",
-  "guid": "kaylee-2026-10-27-wn-am-714d15ff",
-  "pubDate": "Wed, 28 Oct 2026 00:04:43 +1000",
-  "pubDate_iso": "2026-10-28T00:04:43.408404+10:00"
- },
- {
   "id": "2026-10-28-brief",
   "type": "brief",
   "date": "2026-10-28",
@@ -137,5 +110,19 @@
   "guid": "kaylee-2026-10-29-wn-pm-30405599",
   "pubDate": "Fri, 30 Oct 2026 07:53:55 +1000",
   "pubDate_iso": "2026-10-30T07:53:55.201734+10:00"
+ },
+ {
+  "id": "2026-10-30-wn-am",
+  "type": "wn-am",
+  "date": "2026-10-30",
+  "file": "2026-10-30-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 10月30日｜AI交易阴风阵阵",
+  "desc": "10月30日早间版。Amazon和Intel的财报加剧了市场对AI交易的担忧，本周的科技股抛售愈演愈烈。另外，Binance成为史上最大网络盗窃案的目标，Alexander Osipovich带来详细报道；可可豆短缺加剧，糖果商纷纷进实验室寻找巧克力替代品。主持人Luke Vargas。\n原节目：WSJ What's News「The AI Trade Gets Spooky」（美东10月30日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A",
+  "link": "https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A",
+  "bytes": 11303951,
+  "duration": "00:15:11",
+  "guid": "kaylee-2026-10-30-wn-am-f4a21ced",
+  "pubDate": "Sat, 31 Oct 2026 00:46:34 +1000",
+  "pubDate_iso": "2026-10-31T00:46:34.853533+10:00"
  }
 ]
