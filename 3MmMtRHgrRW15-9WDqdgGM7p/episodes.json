@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-10-30-wn-bonus-48a41c15",
   "pubDate": "Sat, 31 Oct 2026 07:53:07 +1000",
   "pubDate_iso": "2026-10-31T07:53:07.895679+10:00"
+ },
+ {
+  "id": "2026-10-30-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-10-30",
+  "file": "2026-10-30-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 10月30日｜欢迎来到预测市场选举",
+  "desc": "《华尔街日报》记者Kevin Dugan告诉我们，为什么这次选举对Kalshi和Polymarket是一场关键考验：预测市场说群体智慧胜过传统民调，但它们最近有几次大失手。另外，科技股抛售今天加剧，Nasdaq迎来一年多来最差的一个月，市场记者David Uberti谈让投资者担忧的AI市场裂痕；流感季也提前开始，健康记者Jennifer Calfas解释这种毒株的情况和应对方法。Alex Ossola主持。\n原节目：WSJ What's News「Welcome to the Prediction-Market Election」（美东10月30日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/welcome-to-the-prediction-market-election/B0DF5AE9-2D1A-4543-9FD1-B2BD742B29B2",
+  "link": "https://www.wsj.com/podcasts/whats-news/welcome-to-the-prediction-market-election/B0DF5AE9-2D1A-4543-9FD1-B2BD742B29B2",
+  "bytes": 11568599,
+  "duration": "00:15:33",
+  "guid": "kaylee-2026-10-30-wn-pm-6c02c43a",
+  "pubDate": "Sat, 31 Oct 2026 07:55:47 +1000",
+  "pubDate_iso": "2026-10-31T07:55:47.566599+10:00"
  }
 ]
