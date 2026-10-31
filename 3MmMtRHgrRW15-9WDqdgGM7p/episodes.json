@@ -1,33 +1,5 @@
 [
  {
-  "id": "2026-10-27-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-10-27",
-  "file": "2026-10-27-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 10月27日｜护士为何大批辞职",
-  "desc": "护士收入相对较高，在AI时代工作也比较稳定，但据《华尔街日报》的Te-Ping Chen报道，导致职业倦怠、威胁人身安全的工作环境正促使越来越多护士辞职。另外，在周末总统选举中落败的Flávio Bolsonaro被Brazil注销护照，当局正在调查他取道Argentina逃往美国的报道；我们还会带来Israel选举投票结束之际的最新情况，以及Ukraine一座城市的停火让援助得以送达挨饿居民的消息，《华尔街日报》驻外记者Ian Lovett讲述这次停火如何促成，其中也有第一夫人Melania Trump的功劳。主持人Alex Ossola。\n原节目：WSJ What's News「Why Nurses Are Quitting in Droves」（美东10月27日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/why-nurses-are-quitting-in-droves/c3a1c465-1993-49dc-9fee-0e9168a0e3cb",
-  "link": "https://www.wsj.com/podcasts/whats-news/why-nurses-are-quitting-in-droves/c3a1c465-1993-49dc-9fee-0e9168a0e3cb",
-  "bytes": 8718955,
-  "duration": "00:11:36",
-  "guid": "kaylee-2026-10-27-wn-pm-dcb224f8",
-  "pubDate": "Wed, 28 Oct 2026 07:56:55 +1000",
-  "pubDate_iso": "2026-10-28T07:56:55.863659+10:00"
- },
- {
-  "id": "2026-10-28-wn-am",
-  "type": "wn-am",
-  "date": "2026-10-28",
-  "file": "2026-10-28-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 10月28日｜Netanyahu还能撑住吗？",
-  "desc": "早间版，10月28日。以色列大选初步结果显示，总理Benjamin Netanyahu的执政联盟领先对手，但仍未达到多数席位；《华尔街日报》记者Anat Peled在Tel Aviv报道，高投票率和缺乏明确赢家凸显以色列社会的深刻分裂。另外，我们走进Texas针锋相对的造势集会，那里可能是史上最昂贵的参议员选举；存储芯片巨头SK Hynix也因AI硬件需求激增赚得盆满钵满。\n原节目：WSJ What's News「Can Netanyahu Hold On?」（美东10月28日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/can-netanyahu-hold-on/9a04e68f-378a-4f17-9c49-fdb7317f2e06",
-  "link": "https://www.wsj.com/podcasts/whats-news/can-netanyahu-hold-on/9a04e68f-378a-4f17-9c49-fdb7317f2e06",
-  "bytes": 9889207,
-  "duration": "00:13:14",
-  "guid": "kaylee-2026-10-28-wn-am-5a1709f1",
-  "pubDate": "Wed, 28 Oct 2026 23:07:35 +1000",
-  "pubDate_iso": "2026-10-28T23:07:35.374812+10:00"
- },
- {
   "id": "2026-10-28-wn-pm",
   "type": "wn-pm",
   "date": "2026-10-28",
@@ -138,5 +110,19 @@
   "guid": "kaylee-2026-10-30-wn-pm-6c02c43a",
   "pubDate": "Sat, 31 Oct 2026 07:55:47 +1000",
   "pubDate_iso": "2026-10-31T07:55:47.566599+10:00"
+ },
+ {
+  "id": "2026-10-31-wn-sat",
+  "type": "wn-sat",
+  "date": "2026-10-31",
+  "file": "2026-10-31-wn-sat.mp3",
+  "title": "What's News 中文版｜周六市场版 10月31日｜AI抛售加剧、科技财报令人失望、Binance遭黑客攻击",
+  "desc": "Alphabet、Intel和Amazon令人失望的财报是否引发了科技股抛售？在与Iran的紧张局势再度升温之际，Chevron和ExxonMobil为何能交出创纪录的利润？另外，Binance被黑之后加密市场是否陷入恐慌？主持人Jack Pitcher带你回顾本周最大的股价波动和背后的新闻。\n原节目：WSJ What's News「What’s News in Markets: AI Selloff Deepens, Tech Earnings Disappoint, Binance Hack」（美东10月31日 sat）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-ai-selloff-deepens-tech-earnings-disappoint-binance-hack/B6B81E0A-4328-40C7-B6ED-ADE81C49D133",
+  "link": "https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-ai-selloff-deepens-tech-earnings-disappoint-binance-hack/B6B81E0A-4328-40C7-B6ED-ADE81C49D133",
+  "bytes": 4090448,
+  "duration": "00:05:11",
+  "guid": "kaylee-2026-10-31-wn-sat-b6433688",
+  "pubDate": "Sun, 01 Nov 2026 00:37:31 +1000",
+  "pubDate_iso": "2026-11-01T00:37:31.514300+10:00"
  }
 ]
