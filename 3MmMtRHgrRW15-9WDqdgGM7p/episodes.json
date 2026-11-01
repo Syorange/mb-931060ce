@@ -1,47 +1,5 @@
 [
  {
-  "id": "2026-10-28-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-10-28",
-  "file": "2026-10-28-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 10月28日｜Weil Gotshal的倒下",
-  "desc": "晚间版，10月28日。去年，以处理Lehman Brothers和Enron等公司破产案闻名的Weil Gotshal收入超过20亿美元；今天，其领导层宣布计划解散律所，《华尔街日报》法律事务记者Erin Mulvaney解析这家律所为何急剧衰落。另外，美联储维持利率不变，但经济记者Matt Grossman指出，两位官员的反对票表明再次加息可能为期不远；在巴西总统选举中落败的Flávio Bolsonaro今天携家人抵达美国，国家安全记者Vera Bergengruen讲述Trump政府如何参与其中，以及Bolsonaro接下来的打算。主持人Alex Ossola。\n原节目：WSJ What's News「The Downfall of Weil Gotshal」（美东10月28日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-downfall-of-weil-gotshal/de8e85b8-32ca-4c67-81ad-0eef37d7484d",
-  "link": "https://www.wsj.com/podcasts/whats-news/the-downfall-of-weil-gotshal/de8e85b8-32ca-4c67-81ad-0eef37d7484d",
-  "bytes": 9687957,
-  "duration": "00:12:57",
-  "guid": "kaylee-2026-10-28-wn-pm-d8cb470a",
-  "pubDate": "Thu, 29 Oct 2026 12:07:20 +1000",
-  "pubDate_iso": "2026-10-29T12:07:20.798697+10:00"
- },
- {
-  "id": "2026-10-29-brief",
-  "type": "brief",
-  "date": "2026-10-29",
-  "file": "2026-10-29-brief.mp3",
-  "title": "美股晨间新闻｜10月29日｜Alphabet盘后重挫，AI开始拼现金流",
-  "desc": "Microsoft与Alphabet财报两极分化、Oracle承诺限制融资大涨、Fed会后市场解读、软件股重挫与今晚PCE和Amazon财报。",
-  "link": null,
-  "bytes": 18354503,
-  "duration": "00:24:58",
-  "guid": "kaylee-2026-10-29-brief-b8376a22",
-  "pubDate": "Thu, 29 Oct 2026 12:14:42 +1000",
-  "pubDate_iso": "2026-10-29T12:14:42.510752+10:00"
- },
- {
-  "id": "2026-10-29-wn-am",
-  "type": "wn-am",
-  "date": "2026-10-29",
-  "file": "2026-10-29-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 10月29日｜「AI Mode」正在侵蚀Google的搜索收入",
-  "desc": "10月29日早间版。Alphabet搜索广告这块核心业务收入不及预期，遭投资者抛售；Microsoft云业务增长缓解了投资者对AI基础设施需求的担忧，股价上涨。此外，副总统JD Vance接触Iran最有权势的强硬派之一，试图重启和谈，而President Trump威胁中期选举后重启战争；Trump还升级了对Alaska参议院选举舞弊的指控。主持人Luke Vargas。\n原节目：WSJ What's News「‘AI Mode’ Is Denting Google’s Search Revenue」（美东10月29日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/ai-mode-is-denting-googles-search-revenue/357316a0-90e6-434c-ac50-625352da1601",
-  "link": "https://www.wsj.com/podcasts/whats-news/ai-mode-is-denting-googles-search-revenue/357316a0-90e6-434c-ac50-625352da1601",
-  "bytes": 8516111,
-  "duration": "00:11:19",
-  "guid": "kaylee-2026-10-29-wn-am-82eb0059",
-  "pubDate": "Thu, 29 Oct 2026 23:11:55 +1000",
-  "pubDate_iso": "2026-10-29T23:11:55.453233+10:00"
- },
- {
   "id": "2026-10-30-brief",
   "type": "brief",
   "date": "2026-10-30",
@@ -124,5 +82,19 @@
   "guid": "kaylee-2026-10-31-wn-sat-b6433688",
   "pubDate": "Sun, 01 Nov 2026 00:37:31 +1000",
   "pubDate_iso": "2026-11-01T00:37:31.514300+10:00"
+ },
+ {
+  "id": "2026-11-01-wn-sun",
+  "type": "wn-sun",
+  "date": "2026-11-01",
+  "file": "2026-11-01-wn-sun.mp3",
+  "title": "What's News 中文版｜周日特别版 11月1日｜中期选举前瞻：从法律挑战到选民权利",
+  "desc": "2026年中期选举前夕，Trump政府一直在推动扩大自己在选举中的角色，提起法律挑战，并试图修改邮寄选票的规则。《华尔街日报》记者Louise Radnofsky与主持人Alex Ossola一起探讨这些举动，以及围绕Alaska参议院选举的争议。随后，Brennan Center for Justice的Wendy Weiser为选民提供去投票站时的实用建议。\n原节目：WSJ What's News「Navigating the Midterms: From Legal Challenges to Voter Rights」（美东11月1日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/navigating-the-midterms-from-legal-challenges-to-voter-rights/3E80D7E2-FFC1-484E-9905-9C71FCA6294E",
+  "link": "https://www.wsj.com/podcasts/whats-news/navigating-the-midterms-from-legal-challenges-to-voter-rights/3E80D7E2-FFC1-484E-9905-9C71FCA6294E",
+  "bytes": 10713823,
+  "duration": "00:14:22",
+  "guid": "kaylee-2026-11-01-wn-sun-51c6c427",
+  "pubDate": "Mon, 02 Nov 2026 00:37:49 +1000",
+  "pubDate_iso": "2026-11-02T00:37:49.769795+10:00"
  }
 ]
