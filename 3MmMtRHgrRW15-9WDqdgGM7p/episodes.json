@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-10-30-wn-am",
-  "type": "wn-am",
-  "date": "2026-10-30",
-  "file": "2026-10-30-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 10月30日｜AI交易阴风阵阵",
-  "desc": "10月30日早间版。Amazon和Intel的财报加剧了市场对AI交易的担忧，本周的科技股抛售愈演愈烈。另外，Binance成为史上最大网络盗窃案的目标，Alexander Osipovich带来详细报道；可可豆短缺加剧，糖果商纷纷进实验室寻找巧克力替代品。主持人Luke Vargas。\n原节目：WSJ What's News「The AI Trade Gets Spooky」（美东10月30日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A",
-  "link": "https://www.wsj.com/podcasts/whats-news/the-ai-trade-gets-spooky/30729DC3-07F1-4EF6-A4FD-39F95C9F327A",
-  "bytes": 11303951,
-  "duration": "00:15:11",
-  "guid": "kaylee-2026-10-30-wn-am-f4a21ced",
-  "pubDate": "Sat, 31 Oct 2026 00:46:34 +1000",
-  "pubDate_iso": "2026-10-31T00:46:34.853533+10:00"
- },
- {
   "id": "2026-10-30-wn-bonus",
   "type": "wn-bonus",
   "date": "2026-10-30",
@@ -96,5 +82,19 @@
   "guid": "kaylee-2026-11-02-wn-am-b264d2d4",
   "pubDate": "Tue, 03 Nov 2026 00:40:31 +1000",
   "pubDate_iso": "2026-11-03T00:40:31.888650+10:00"
+ },
+ {
+  "id": "2026-11-03-brief",
+  "type": "brief",
+  "date": "2026-11-03",
+  "file": "2026-11-03-brief.mp3",
+  "title": "美股晨间新闻｜11月3日｜油价暴跌背后的伊朗变数，Marvell豪赌AI光通信",
+  "desc": "海湾石油出口回到战前、Marvell收购Lumentum、Anthropic上市前的治理争议与选举风险，以及Bloomberg深度调查印尼股市对敲把戏。",
+  "link": null,
+  "bytes": 19977405,
+  "duration": "00:27:13",
+  "guid": "kaylee-2026-11-03-brief-efe786b8",
+  "pubDate": "Tue, 03 Nov 2026 07:10:47 +1000",
+  "pubDate_iso": "2026-11-03T07:10:47.629748+10:00"
  }
 ]
