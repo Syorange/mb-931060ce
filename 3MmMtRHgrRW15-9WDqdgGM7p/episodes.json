@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-10-31-wn-sat",
-  "type": "wn-sat",
-  "date": "2026-10-31",
-  "file": "2026-10-31-wn-sat.mp3",
-  "title": "What's News 中文版｜周六市场版 10月31日｜AI抛售加剧、科技财报令人失望、Binance遭黑客攻击",
-  "desc": "Alphabet、Intel和Amazon令人失望的财报是否引发了科技股抛售？在与Iran的紧张局势再度升温之际，Chevron和ExxonMobil为何能交出创纪录的利润？另外，Binance被黑之后加密市场是否陷入恐慌？主持人Jack Pitcher带你回顾本周最大的股价波动和背后的新闻。\n原节目：WSJ What's News「What’s News in Markets: AI Selloff Deepens, Tech Earnings Disappoint, Binance Hack」（美东10月31日 sat）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-ai-selloff-deepens-tech-earnings-disappoint-binance-hack/B6B81E0A-4328-40C7-B6ED-ADE81C49D133",
-  "link": "https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-ai-selloff-deepens-tech-earnings-disappoint-binance-hack/B6B81E0A-4328-40C7-B6ED-ADE81C49D133",
-  "bytes": 4090448,
-  "duration": "00:05:11",
-  "guid": "kaylee-2026-10-31-wn-sat-b6433688",
-  "pubDate": "Sun, 01 Nov 2026 00:37:31 +1000",
-  "pubDate_iso": "2026-11-01T00:37:31.514300+10:00"
- },
- {
   "id": "2026-11-01-wn-sun",
   "type": "wn-sun",
   "date": "2026-11-01",
@@ -82,5 +68,19 @@
   "guid": "kaylee-2026-11-02-wn-pm-e385ecea",
   "pubDate": "Tue, 03 Nov 2026 12:03:26 +1000",
   "pubDate_iso": "2026-11-03T12:03:26.686739+10:00"
+ },
+ {
+  "id": "2026-11-03-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-03",
+  "file": "2026-11-03-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月3日｜特朗普帮共和党帮够了吗？",
+  "desc": "11月3日早间版。今天是选举日，美国人走进投票站，国会控制权悬而未决；华盛顿报道主管Damian Paletta解读Trump总统在Lincoln Memorial发表最后拉票演讲后的选情。另外，《华尔街日报》的Jon Gambrell解析美国对Iran最新打击的意义，而Trump总统正淡化中期选举后重回战争的可能；Apple新任CEO John Ternus压力渐增，这家全球市值最高的公司透露增长引擎放缓，股价随之下滑。\n原节目：WSJ What's News「Did Trump Do Enough to Help Republicans?」（美东11月3日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/did-trump-do-enough-to-help-republicans/64A20E50-4DCD-4F75-AF5C-53BF02CA0757",
+  "link": "https://www.wsj.com/podcasts/whats-news/did-trump-do-enough-to-help-republicans/64A20E50-4DCD-4F75-AF5C-53BF02CA0757",
+  "bytes": 13648682,
+  "duration": "00:18:27",
+  "guid": "kaylee-2026-11-03-wn-am-e06ac0f7",
+  "pubDate": "Wed, 04 Nov 2026 00:39:01 +1000",
+  "pubDate_iso": "2026-11-04T00:39:01.350256+10:00"
  }
 ]
