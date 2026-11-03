@@ -1,33 +1,5 @@
 [
  {
-  "id": "2026-10-30-wn-bonus",
-  "type": "wn-bonus",
-  "date": "2026-10-30",
-  "file": "2026-10-30-wn-bonus.mp3",
-  "title": "What's News 中文版｜特别加播 10月30日｜UPS和FedEx如何借柴油成本推高营收",
-  "desc": "快递公司这周形容美国消费者依然有韧性。UPS和FedEx营收增长超出华尔街预期，并上调全年展望；虽然能源成本上升推高了开支，但两家都受益于与柴油价格挂钩的更高燃油附加费。铁路公司也因柴油涨价而受益，因为不少企业把运输从卡车转向铁路。Pierre Bienaimé主持这期What's News in Earnings特别加更节目。\n原节目：WSJ What's News「How UPS and FedEx Are Riding Diesel Costs to Higher Revenues」（美东10月30日 bonus）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/how-ups-and-fedex-are-riding-diesel-costs-to-higher-revenues/2973662B-9D2E-4F7A-AAEB-30EDEED15134",
-  "link": "https://www.wsj.com/podcasts/whats-news/how-ups-and-fedex-are-riding-diesel-costs-to-higher-revenues/2973662B-9D2E-4F7A-AAEB-30EDEED15134",
-  "bytes": 4033671,
-  "duration": "00:05:06",
-  "guid": "kaylee-2026-10-30-wn-bonus-48a41c15",
-  "pubDate": "Sat, 31 Oct 2026 07:53:07 +1000",
-  "pubDate_iso": "2026-10-31T07:53:07.895679+10:00"
- },
- {
-  "id": "2026-10-30-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-10-30",
-  "file": "2026-10-30-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 10月30日｜欢迎来到预测市场选举",
-  "desc": "《华尔街日报》记者Kevin Dugan告诉我们，为什么这次选举对Kalshi和Polymarket是一场关键考验：预测市场说群体智慧胜过传统民调，但它们最近有几次大失手。另外，科技股抛售今天加剧，Nasdaq迎来一年多来最差的一个月，市场记者David Uberti谈让投资者担忧的AI市场裂痕；流感季也提前开始，健康记者Jennifer Calfas解释这种毒株的情况和应对方法。Alex Ossola主持。\n原节目：WSJ What's News「Welcome to the Prediction-Market Election」（美东10月30日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/welcome-to-the-prediction-market-election/B0DF5AE9-2D1A-4543-9FD1-B2BD742B29B2",
-  "link": "https://www.wsj.com/podcasts/whats-news/welcome-to-the-prediction-market-election/B0DF5AE9-2D1A-4543-9FD1-B2BD742B29B2",
-  "bytes": 11568599,
-  "duration": "00:15:33",
-  "guid": "kaylee-2026-10-30-wn-pm-6c02c43a",
-  "pubDate": "Sat, 31 Oct 2026 07:55:47 +1000",
-  "pubDate_iso": "2026-10-31T07:55:47.566599+10:00"
- },
- {
   "id": "2026-10-31-wn-sat",
   "type": "wn-sat",
   "date": "2026-10-31",
@@ -96,5 +68,19 @@
   "guid": "kaylee-2026-11-03-brief-efe786b8",
   "pubDate": "Tue, 03 Nov 2026 07:10:47 +1000",
   "pubDate_iso": "2026-11-03T07:10:47.629748+10:00"
+ },
+ {
+  "id": "2026-11-02-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-02",
+  "file": "2026-11-02-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月2日｜民主党的未来属于温和派还是进步派？",
+  "desc": "周二不只是民主党对共和党，温和派与进步派民主党人之间的较量也在选票上。《华尔街日报》政治记者Sabrina Rodriguez带我们看几场预示民主党走向的关键选战；全国事务记者Scott Calvert介绍一些州如何用车载技术让鲁莽司机减速；记者Terell Wright解释为什么昂贵的精英文理学院如今反而是高等教育里最划算的选择。主持人Alex Ossola。\n原节目：WSJ What's News「Does Democrats’ Future Lie With Moderates or Progressives?」（美东11月2日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/does-democrats-future-lie-with-moderates-or-progressives/3B95BEE3-BBBA-4091-AB7B-3C73832210DB",
+  "link": "https://www.wsj.com/podcasts/whats-news/does-democrats-future-lie-with-moderates-or-progressives/3B95BEE3-BBBA-4091-AB7B-3C73832210DB",
+  "bytes": 10256637,
+  "duration": "00:13:44",
+  "guid": "kaylee-2026-11-02-wn-pm-e385ecea",
+  "pubDate": "Tue, 03 Nov 2026 12:03:26 +1000",
+  "pubDate_iso": "2026-11-03T12:03:26.686739+10:00"
  }
 ]
