@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-02-brief",
-  "type": "brief",
-  "date": "2026-11-02",
-  "file": "2026-11-02-brief.mp3",
-  "title": "美股晨间新闻｜11月2日｜AI的账单：巨头开始借钱买算力",
-  "desc": "Meta遭S&P警告、Amazon抵押硬件借钱、OpenAI融资缩水与Altman韩国抢芯片、霍尔木兹天然气船遇袭，以及Binance后续等快讯。",
-  "link": null,
-  "bytes": 16508822,
-  "duration": "00:22:25",
-  "guid": "kaylee-2026-11-02-brief-e8beae76",
-  "pubDate": "Mon, 02 Nov 2026 07:13:54 +1000",
-  "pubDate_iso": "2026-11-02T07:13:54.130936+10:00"
- },
- {
   "id": "2026-11-02-wn-am",
   "type": "wn-am",
   "date": "2026-11-02",
@@ -124,5 +110,19 @@
   "guid": "kaylee-2026-11-05-brief-4892c602",
   "pubDate": "Thu, 05 Nov 2026 07:08:57 +1000",
   "pubDate_iso": "2026-11-05T07:08:57.276107+10:00"
+ },
+ {
+  "id": "2026-11-04-wn-bonus",
+  "type": "wn-bonus",
+  "date": "2026-11-04",
+  "file": "2026-11-04-wn-bonus.mp3",
+  "title": "What's News 中文版｜特别加播 11月4日｜战争让美国炼油商赚得盆满钵满",
+  "desc": "炼油商把从地下开采的原油变成汽车、飞机和火车能用的燃料。中东和Ukraine的冲突重创了当地能源产业，促使Marathon Petroleum、Phillips 66和Valero Energy等美国公司开足马力填补全球缺口，并因此获得巨额利润。Pierre Bienaimé主持这期What's News in Earnings特别加更节目，透过企业财报和分析师电话会，看清美国经济的内在运行。\n原节目：WSJ What's News「War Leaves U.S. Oil Refiners With Massive Profit Gains」（美东11月4日 bonus）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/war-leaves-us-oil-refiners-with-massive-profit-gains/1229E1BE-093B-4B9C-8F5D-020172EAF4C6",
+  "link": "https://www.wsj.com/podcasts/whats-news/war-leaves-us-oil-refiners-with-massive-profit-gains/1229E1BE-093B-4B9C-8F5D-020172EAF4C6",
+  "bytes": 4878741,
+  "duration": "00:06:16",
+  "guid": "kaylee-2026-11-04-wn-bonus-646875bd",
+  "pubDate": "Thu, 05 Nov 2026 07:54:02 +1000",
+  "pubDate_iso": "2026-11-05T07:54:02.970822+10:00"
  }
 ]
