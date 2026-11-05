@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-11-04-wn-bonus-646875bd",
   "pubDate": "Thu, 05 Nov 2026 07:54:02 +1000",
   "pubDate_iso": "2026-11-05T07:54:02.970822+10:00"
+ },
+ {
+  "id": "2026-11-04-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-04",
+  "file": "2026-11-04-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月4日｜民主党拿下国会控制权，接下来会怎样？",
+  "desc": "11月4日晚间版。记者Rich Rubin谈民主党在国会的计划，从应对高生活成本到针对Trump总统及其政府的一连串调查。另外，专栏作家Tim Higgins分析民主党获胜后共和党金主Elon Musk在华盛顿面临的风险；Jack Pitcher解释中期选举结果为何让股市大涨，道指上涨超过1500点。主持人Alex Ossola。\n原节目：WSJ What's News「Democrats Have Won Control of Congress. What Happens Next?」（美东11月4日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/democrats-have-won-control-of-congress-what-happens-next/7A7CDA5B-D92F-4D3C-8213-F31EAD901FAF",
+  "link": "https://www.wsj.com/podcasts/whats-news/democrats-have-won-control-of-congress-what-happens-next/7A7CDA5B-D92F-4D3C-8213-F31EAD901FAF",
+  "bytes": 10338191,
+  "duration": "00:13:51",
+  "guid": "kaylee-2026-11-04-wn-pm-f5a1fc77",
+  "pubDate": "Thu, 05 Nov 2026 11:57:51 +1000",
+  "pubDate_iso": "2026-11-05T11:57:51.472877+10:00"
  }
 ]
