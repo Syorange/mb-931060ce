@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-02-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-11-02",
-  "file": "2026-11-02-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 11月2日｜民主党的未来属于温和派还是进步派？",
-  "desc": "周二不只是民主党对共和党，温和派与进步派民主党人之间的较量也在选票上。《华尔街日报》政治记者Sabrina Rodriguez带我们看几场预示民主党走向的关键选战；全国事务记者Scott Calvert介绍一些州如何用车载技术让鲁莽司机减速；记者Terell Wright解释为什么昂贵的精英文理学院如今反而是高等教育里最划算的选择。主持人Alex Ossola。\n原节目：WSJ What's News「Does Democrats’ Future Lie With Moderates or Progressives?」（美东11月2日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/does-democrats-future-lie-with-moderates-or-progressives/3B95BEE3-BBBA-4091-AB7B-3C73832210DB",
-  "link": "https://www.wsj.com/podcasts/whats-news/does-democrats-future-lie-with-moderates-or-progressives/3B95BEE3-BBBA-4091-AB7B-3C73832210DB",
-  "bytes": 10256637,
-  "duration": "00:13:44",
-  "guid": "kaylee-2026-11-02-wn-pm-e385ecea",
-  "pubDate": "Tue, 03 Nov 2026 12:03:26 +1000",
-  "pubDate_iso": "2026-11-03T12:03:26.686739+10:00"
- },
- {
   "id": "2026-11-03-wn-am",
   "type": "wn-am",
   "date": "2026-11-03",
@@ -138,5 +124,19 @@
   "guid": "kaylee-2026-11-06-brief-96fcb2a3",
   "pubDate": "Fri, 06 Nov 2026 07:19:35 +1000",
   "pubDate_iso": "2026-11-06T07:19:35.194821+10:00"
+ },
+ {
+  "id": "2026-11-05-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-05",
+  "file": "2026-11-05-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月5日｜AI股暴跌，Nasdaq选后蒸发创纪录的2.5 trillion美元市值",
+  "desc": "选举之后，投资者担心AI怀疑者上台，大举抛售科技股，《华尔街日报》市场记者Jack Pitcher谈AI交易中不断涌现的疑虑。最高法院记者James Romoser解释，Trump总统再提名一位保守派大法官的窗口为何基本关闭。另外，欧洲多地航班因一连串炸弹威胁改道，记者Ben Katz谈这类威胁为何越来越常见、官员又为何难以应对。\n原节目：WSJ What's News「Nasdaq Loses a Historic $2.5 Trillion in Market Cap in AI Rout After Election」（美东11月5日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/nasdaq-loses-a-historic-25-trillion-in-market-cap-in-ai-rout-after-election/74D803DC-A1BD-4956-8F22-267483A6E7D8",
+  "link": "https://www.wsj.com/podcasts/whats-news/nasdaq-loses-a-historic-25-trillion-in-market-cap-in-ai-rout-after-election/74D803DC-A1BD-4956-8F22-267483A6E7D8",
+  "bytes": 9427942,
+  "duration": "00:12:35",
+  "guid": "kaylee-2026-11-05-wn-pm-ff99b961",
+  "pubDate": "Fri, 06 Nov 2026 12:05:26 +1000",
+  "pubDate_iso": "2026-11-06T12:05:26.673223+10:00"
  }
 ]
