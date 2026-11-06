@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-03-wn-am",
-  "type": "wn-am",
-  "date": "2026-11-03",
-  "file": "2026-11-03-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 11月3日｜特朗普帮共和党帮够了吗？",
-  "desc": "11月3日早间版。今天是选举日，美国人走进投票站，国会控制权悬而未决；华盛顿报道主管Damian Paletta解读Trump总统在Lincoln Memorial发表最后拉票演讲后的选情。另外，《华尔街日报》的Jon Gambrell解析美国对Iran最新打击的意义，而Trump总统正淡化中期选举后重回战争的可能；Apple新任CEO John Ternus压力渐增，这家全球市值最高的公司透露增长引擎放缓，股价随之下滑。\n原节目：WSJ What's News「Did Trump Do Enough to Help Republicans?」（美东11月3日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/did-trump-do-enough-to-help-republicans/64A20E50-4DCD-4F75-AF5C-53BF02CA0757",
-  "link": "https://www.wsj.com/podcasts/whats-news/did-trump-do-enough-to-help-republicans/64A20E50-4DCD-4F75-AF5C-53BF02CA0757",
-  "bytes": 13648682,
-  "duration": "00:18:27",
-  "guid": "kaylee-2026-11-03-wn-am-e06ac0f7",
-  "pubDate": "Wed, 04 Nov 2026 00:39:01 +1000",
-  "pubDate_iso": "2026-11-04T00:39:01.350256+10:00"
- },
- {
   "id": "2026-11-04-brief",
   "type": "brief",
   "date": "2026-11-04",
@@ -138,5 +124,19 @@
   "guid": "kaylee-2026-11-05-wn-pm-ff99b961",
   "pubDate": "Fri, 06 Nov 2026 12:05:26 +1000",
   "pubDate_iso": "2026-11-06T12:05:26.673223+10:00"
+ },
+ {
+  "id": "2026-11-06-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-06",
+  "file": "2026-11-06-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月6日｜Anthropic一点五万亿美元估值是不是太贵了？",
+  "desc": "投资者对Anthropic即将到来的IPO能否达到一点五万亿美元估值表示怀疑，《华尔街日报》的Berber Jin带来报道。AI股票盘前反弹之际，我们也会看看昨天那场惨烈抛售如何波及全球，以及股市还可能再跌多深。此外，石油记者Rebecca Feng详述Houthis如何用邮件安排船只通过红海争议咽喉要道。\n原节目：WSJ What's News「Is Anthropic’s $1.5 Trillion Valuation Too Rich?」（美东11月6日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/is-anthropics-15-trillion-valuation-too-rich/AE45B6DF-402F-4B27-A97B-592024F99407",
+  "link": "https://www.wsj.com/podcasts/whats-news/is-anthropics-15-trillion-valuation-too-rich/AE45B6DF-402F-4B27-A97B-592024F99407",
+  "bytes": 8783386,
+  "duration": "00:11:42",
+  "guid": "kaylee-2026-11-06-wn-am-66f1df9a",
+  "pubDate": "Sat, 07 Nov 2026 01:37:43 +1000",
+  "pubDate_iso": "2026-11-07T01:37:43.259448+10:00"
  }
 ]
