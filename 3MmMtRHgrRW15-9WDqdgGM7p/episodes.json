@@ -82,5 +82,19 @@
   "guid": "kaylee-2026-11-08-wn-sun-a57eefb8",
   "pubDate": "Mon, 09 Nov 2026 00:40:54 +1000",
   "pubDate_iso": "2026-11-09T00:40:54.910743+10:00"
+ },
+ {
+  "id": "2026-11-09-brief",
+  "type": "brief",
+  "date": "2026-11-09",
+  "file": "2026-11-09-brief.mp3",
+  "title": "美股晨间新闻｜11月9日｜Nvidia掌门人陷间谍丑闻，AI的钱变挑剔了",
+  "desc": "Jensen Huang承认婚外情、董事会启动独立调查；OpenAI融资缩水、Anthropic抢购发电机；回看中国入世谈判。",
+  "link": null,
+  "bytes": 17626513,
+  "duration": "00:23:58",
+  "guid": "kaylee-2026-11-09-brief-b2ce8508",
+  "pubDate": "Mon, 09 Nov 2026 07:10:12 +1000",
+  "pubDate_iso": "2026-11-09T07:10:12.404386+10:00"
  }
 ]
