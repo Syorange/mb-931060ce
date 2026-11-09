@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-06-wn-am",
-  "type": "wn-am",
-  "date": "2026-11-06",
-  "file": "2026-11-06-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 11月6日｜Anthropic的1.5万亿美元估值是不是太贵了？",
-  "desc": "投资者怀疑Anthropic即将到来的IPO能否达到1.5万亿美元估值，《华尔街日报》的Berber Jin带来报道。AI股票盘前反弹之际，我们看看昨天惨烈的抛售如何波及全球，以及股市还可能跌多远。另外，石油记者Rebecca Feng详述胡塞武装如何用邮件安排红海争议咽喉要道的通行。\n原节目：WSJ What's News「Is Anthropic’s $1.5 Trillion Valuation Too Rich?」（美东11月6日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/is-anthropics-15-trillion-valuation-too-rich/AE45B6DF-402F-4B27-A97B-592024F99407",
-  "link": "https://www.wsj.com/podcasts/whats-news/is-anthropics-15-trillion-valuation-too-rich/AE45B6DF-402F-4B27-A97B-592024F99407",
-  "bytes": 8941199,
-  "duration": "00:11:55",
-  "guid": "kaylee-2026-11-06-wn-am-66f1df9a",
-  "pubDate": "Sat, 07 Nov 2026 01:37:43 +1000",
-  "pubDate_iso": "2026-11-07T01:37:43.259448+10:00"
- },
- {
   "id": "2026-11-06-wn-pm",
   "type": "wn-pm",
   "date": "2026-11-06",
@@ -82,5 +68,19 @@
   "guid": "kaylee-2026-11-09-wn-am-3252371c",
   "pubDate": "Tue, 10 Nov 2026 00:31:38 +1000",
   "pubDate_iso": "2026-11-10T00:31:38.638365+10:00"
+ },
+ {
+  "id": "2026-11-10-brief",
+  "type": "brief",
+  "date": "2026-11-10",
+  "file": "2026-11-10-brief.mp3",
+  "title": "美股晨间新闻｜11月10日｜Anthropic新模型赶在上市前，SpaceX自建电厂拼AI",
+  "desc": "Anthropic路演前发布Fable与Mythos；SpaceX在Starbase建燃气电厂和超级算力；Bloomberg深度：中国上亿违约者背后的催收员；快讯含Binance黑客洗钱、McDonald's选Uber。",
+  "link": null,
+  "bytes": 18544125,
+  "duration": "00:25:14",
+  "guid": "kaylee-2026-11-10-brief-fe7cd408",
+  "pubDate": "Tue, 10 Nov 2026 07:17:56 +1000",
+  "pubDate_iso": "2026-11-10T07:17:56.954234+10:00"
  }
 ]
