@@ -82,5 +82,19 @@
   "guid": "kaylee-2026-11-10-wn-am-fbb43d1e",
   "pubDate": "Wed, 11 Nov 2026 00:40:35 +1000",
   "pubDate_iso": "2026-11-11T00:40:35.366068+10:00"
+ },
+ {
+  "id": "2026-11-11-brief",
+  "type": "brief",
+  "date": "2026-11-11",
+  "file": "2026-11-11-brief.mp3",
+  "title": "美股晨间新闻｜11月11日｜Anthropic叫板Office，通胀逼Fed加息",
+  "desc": "Anthropic推出办公工具并启动上市路演；通胀再超预期，Fed官员要求继续加息；AI建设卡在电力和审批上。",
+  "link": null,
+  "bytes": 18741375,
+  "duration": "00:25:31",
+  "guid": "kaylee-2026-11-11-brief-388b04ef",
+  "pubDate": "Wed, 11 Nov 2026 07:16:25 +1000",
+  "pubDate_iso": "2026-11-11T07:16:25.586766+10:00"
  }
 ]
