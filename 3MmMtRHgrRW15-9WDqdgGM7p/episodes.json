@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-06-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-11-06",
-  "file": "2026-11-06-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 11月6日｜马斯克告别Tesla Cybertruck，德州民主党向他问好",
-  "desc": "Tesla将停产Cybertruck，转而聚焦Robotaxi；底特律分社社长Patrick George讲述这款车如何成为Musk右翼政治的象征，以及德州民主党上台后可能如何对待他在当地的业务。特朗普任命Stephen Miller接替Susie Wiles出任白宫幕僚长；美国十月就业远超预期，Ashby Jones解读对美联储十二月议息的影响。\n原节目：WSJ What's News「Elon Musk Says Good-Bye to Tesla’s Cybertruck… and Hello to Texas Democrats」（美东11月6日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/elon-musk-says-good-bye-to-teslas-cybertruck-and-hello-to-texas-democrats/8DA6004B-8A34-4C55-8F6A-7483FD3DFB58",
-  "link": "https://www.wsj.com/podcasts/whats-news/elon-musk-says-good-bye-to-teslas-cybertruck-and-hello-to-texas-democrats/8DA6004B-8A34-4C55-8F6A-7483FD3DFB58",
-  "bytes": 9394376,
-  "duration": "00:12:32",
-  "guid": "kaylee-2026-11-06-wn-pm-557bfabb",
-  "pubDate": "Sat, 07 Nov 2026 11:58:20 +1000",
-  "pubDate_iso": "2026-11-07T11:58:20.571681+10:00"
- },
- {
   "id": "2026-11-07-wn-sat",
   "type": "wn-sat",
   "date": "2026-11-07",
@@ -82,5 +68,19 @@
   "guid": "kaylee-2026-11-10-brief-fe7cd408",
   "pubDate": "Tue, 10 Nov 2026 07:17:56 +1000",
   "pubDate_iso": "2026-11-10T07:17:56.954234+10:00"
+ },
+ {
+  "id": "2026-11-09-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-09",
+  "file": "2026-11-09-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月9日｜Nvidia下跌，大盘普涨",
+  "desc": "Nvidia调查CEO Jensen Huang的消息让公司股价下滑，市值蒸发2320多亿美元，而它的竞争对手和客户却在上涨。Thomas Massie提出弹劾Pete Hegseth的条款。急诊室人满为患，需要住院的病人有时要在走廊里等24小时。\n原节目：WSJ What's News「Broad Market Rally Leaves Nvidia Decline an Outlier」（美东11月9日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/broad-market-rally-leaves-nvidia-decline-an-outlier/E790E0D1-1C33-41E6-9B2E-321446EB85F2",
+  "link": "https://www.wsj.com/podcasts/whats-news/broad-market-rally-leaves-nvidia-decline-an-outlier/E790E0D1-1C33-41E6-9B2E-321446EB85F2",
+  "bytes": 11869356,
+  "duration": "00:15:58",
+  "guid": "kaylee-2026-11-09-wn-pm-0e02defa",
+  "pubDate": "Tue, 10 Nov 2026 12:03:31 +1000",
+  "pubDate_iso": "2026-11-10T12:03:31.643390+10:00"
  }
 ]
