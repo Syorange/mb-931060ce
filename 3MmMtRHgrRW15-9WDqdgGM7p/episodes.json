@@ -96,5 +96,19 @@
   "guid": "kaylee-2026-11-11-brief-388b04ef",
   "pubDate": "Wed, 11 Nov 2026 07:16:25 +1000",
   "pubDate_iso": "2026-11-11T07:16:25.586766+10:00"
+ },
+ {
+  "id": "2026-11-10-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-10",
+  "file": "2026-11-10-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月10日｜热于预期的通胀数据让投资者押注加息",
+  "desc": "10月通胀数据高于经济学家预期，交易员现在押注的不是Fed会不会加息，而是加多少。另外，美国人爱吃牛肉，但价格居高不下，我们听Patrick Thomas讲讲原因和一些有争议的降价计划。还有，民主党人虽然1月才掌控国会，但已经开始推进议程，让美国企业界的一些大名字提高了警惕。\n原节目：WSJ What's News「Hotter-Than-Expected Inflation Data Has Investors Betting on a Rate Hike」（美东11月10日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/hotter-than-expected-inflation-data-has-investors-betting-on-a-rate-hike/96001278-3DD6-4DD6-8554-57FF7E7A013E",
+  "link": "https://www.wsj.com/podcasts/whats-news/hotter-than-expected-inflation-data-has-investors-betting-on-a-rate-hike/96001278-3DD6-4DD6-8554-57FF7E7A013E",
+  "bytes": 10693651,
+  "duration": "00:14:21",
+  "guid": "kaylee-2026-11-10-wn-pm-5f96dd34",
+  "pubDate": "Wed, 11 Nov 2026 12:03:36 +1000",
+  "pubDate_iso": "2026-11-11T12:03:36.163214+10:00"
  }
 ]
