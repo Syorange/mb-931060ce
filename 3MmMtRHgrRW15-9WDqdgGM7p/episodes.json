@@ -1,33 +1,5 @@
 [
  {
-  "id": "2026-11-08-wn-sun",
-  "type": "wn-sun",
-  "date": "2026-11-08",
-  "file": "2026-11-08-wn-sun.mp3",
-  "title": "What's News 中文版｜周日特别版 11月8日｜民主党承诺要修好经济，他们能做到吗？",
-  "desc": "民主党借着选民对生活成本的不满重新拿下国会，即将上任的议员承诺要处理油价、关税和医疗这些关系到钱包的问题。但面对分裂的Washington，以及即将到来的2028年选举周期，他们实际上能兑现多少？主持人Luke Vargas和《华尔街日报》记者Jeanne Whalen、Gavin Bade、Matt Grossman一起梳理，民主党有哪些办法抑制通胀，他们可能在哪些地方和共和党找到共识，以及他们的经济议程在再次面对选民之前能走多远。\n原节目：WSJ What's News「Democrats Promised to Fix the Economy. Can They?」（美东11月8日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135",
-  "link": "https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135",
-  "bytes": 11255488,
-  "duration": "00:15:07",
-  "guid": "kaylee-2026-11-08-wn-sun-a57eefb8",
-  "pubDate": "Mon, 09 Nov 2026 00:40:54 +1000",
-  "pubDate_iso": "2026-11-09T00:40:54.910743+10:00"
- },
- {
-  "id": "2026-11-09-brief",
-  "type": "brief",
-  "date": "2026-11-09",
-  "file": "2026-11-09-brief.mp3",
-  "title": "美股晨间新闻｜11月9日｜Nvidia掌门人陷间谍丑闻，AI的钱变挑剔了",
-  "desc": "Jensen Huang承认婚外情、董事会启动独立调查；OpenAI融资缩水、Anthropic抢购发电机；回看中国入世谈判。",
-  "link": null,
-  "bytes": 17626513,
-  "duration": "00:23:58",
-  "guid": "kaylee-2026-11-09-brief-b2ce8508",
-  "pubDate": "Mon, 09 Nov 2026 07:10:12 +1000",
-  "pubDate_iso": "2026-11-09T07:10:12.404386+10:00"
- },
- {
   "id": "2026-11-09-wn-am",
   "type": "wn-am",
   "date": "2026-11-09",
@@ -124,5 +96,19 @@
   "guid": "kaylee-2026-11-11-wn-am-e3ed82bc",
   "pubDate": "Thu, 12 Nov 2026 00:31:54 +1000",
   "pubDate_iso": "2026-11-12T00:31:54.160964+10:00"
+ },
+ {
+  "id": "2026-11-12-brief",
+  "type": "brief",
+  "date": "2026-11-12",
+  "file": "2026-11-12-brief.mp3",
+  "title": "美股晨间新闻｜11月12日｜Grok官司考验AI责任，Saudi增产压低油价",
+  "desc": "少年受害者起诉xAI，生成式AI能否躲在Section 230后面；Saudi大幅增产、航空业仍承压；Meta基础设施大将将离任，AI算力争夺战继续。",
+  "link": null,
+  "bytes": 17923065,
+  "duration": "00:24:22",
+  "guid": "kaylee-2026-11-12-brief-b9e2299a",
+  "pubDate": "Thu, 12 Nov 2026 07:13:46 +1000",
+  "pubDate_iso": "2026-11-12T07:13:46.711363+10:00"
  }
 ]

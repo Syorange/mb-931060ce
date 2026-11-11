@@ -13,7 +13,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 12 Nov 2026 00:31:54 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:13:46 +1000</lastBuildDate>
+    <item>
+      <title>美股晨间新闻｜11月12日｜Grok官司考验AI责任，Saudi增产压低油价</title>
+      <description>少年受害者起诉xAI，生成式AI能否躲在Section 230后面；Saudi大幅增产、航空业仍承压；Meta基础设施大将将离任，AI算力争夺战继续。</description>
+      <itunes:summary>少年受害者起诉xAI，生成式AI能否躲在Section 230后面；Saudi大幅增产、航空业仍承压；Meta基础设施大将将离任，AI算力争夺战继续。</itunes:summary>
+      <content:encoded><![CDATA[少年受害者起诉xAI，生成式AI能否躲在Section 230后面；Saudi大幅增产、航空业仍承压；Meta基础设施大将将离任，AI算力争夺战继续。]]></content:encoded>
+      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-11-12-brief.mp3" length="17923065" type="audio/mpeg"/>
+      <guid isPermaLink="false">kaylee-2026-11-12-brief-b9e2299a</guid>
+      <pubDate>Thu, 12 Nov 2026 07:13:46 +1000</pubDate>
+      <itunes:duration>00:24:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
+    </item>
     <item>
       <title>What&#x27;s News 中文版｜早间版 11月11日｜科技股反弹，OpenAI 亏损严重</title>
       <description>OpenAI 第三季度营收几乎翻倍至100亿美元，但仍录得严重运营亏损，Dow Jones Newswires 的 Joe Stonor 解读它与 Anthropic 的差距。另外，Luke Vargas 在 Lisbon 的 Web Summit 上探讨人类在未来被 AI 塞满的互联网中的位置。国防部长 Pete Hegseth 躲过弹劾，但民主党预计一月掌控国会后重启。
@@ -111,34 +124,6 @@
       <guid isPermaLink="false">kaylee-2026-11-09-wn-am-3252371c</guid>
       <pubDate>Tue, 10 Nov 2026 00:31:38 +1000</pubDate>
       <itunes:duration>00:10:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
-    </item>
-    <item>
-      <title>美股晨间新闻｜11月9日｜Nvidia掌门人陷间谍丑闻，AI的钱变挑剔了</title>
-      <description>Jensen Huang承认婚外情、董事会启动独立调查；OpenAI融资缩水、Anthropic抢购发电机；回看中国入世谈判。</description>
-      <itunes:summary>Jensen Huang承认婚外情、董事会启动独立调查；OpenAI融资缩水、Anthropic抢购发电机；回看中国入世谈判。</itunes:summary>
-      <content:encoded><![CDATA[Jensen Huang承认婚外情、董事会启动独立调查；OpenAI融资缩水、Anthropic抢购发电机；回看中国入世谈判。]]></content:encoded>
-      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-11-09-brief.mp3" length="17626513" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaylee-2026-11-09-brief-b2ce8508</guid>
-      <pubDate>Mon, 09 Nov 2026 07:10:12 +1000</pubDate>
-      <itunes:duration>00:23:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
-    </item>
-    <item>
-      <title>What&#x27;s News 中文版｜周日特别版 11月8日｜民主党承诺要修好经济，他们能做到吗？</title>
-      <description>民主党借着选民对生活成本的不满重新拿下国会，即将上任的议员承诺要处理油价、关税和医疗这些关系到钱包的问题。但面对分裂的Washington，以及即将到来的2028年选举周期，他们实际上能兑现多少？主持人Luke Vargas和《华尔街日报》记者Jeanne Whalen、Gavin Bade、Matt Grossman一起梳理，民主党有哪些办法抑制通胀，他们可能在哪些地方和共和党找到共识，以及他们的经济议程在再次面对选民之前能走多远。
-原节目：WSJ What&#x27;s News「Democrats Promised to Fix the Economy. Can They?」（美东11月8日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135</description>
-      <itunes:summary>民主党借着选民对生活成本的不满重新拿下国会，即将上任的议员承诺要处理油价、关税和医疗这些关系到钱包的问题。但面对分裂的Washington，以及即将到来的2028年选举周期，他们实际上能兑现多少？主持人Luke Vargas和《华尔街日报》记者Jeanne Whalen、Gavin Bade、Matt Grossman一起梳理，民主党有哪些办法抑制通胀，他们可能在哪些地方和共和党找到共识，以及他们的经济议程在再次面对选民之前能走多远。
-原节目：WSJ What&#x27;s News「Democrats Promised to Fix the Economy. Can They?」（美东11月8日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135</itunes:summary>
-      <content:encoded><![CDATA[民主党借着选民对生活成本的不满重新拿下国会，即将上任的议员承诺要处理油价、关税和医疗这些关系到钱包的问题。但面对分裂的Washington，以及即将到来的2028年选举周期，他们实际上能兑现多少？主持人Luke Vargas和《华尔街日报》记者Jeanne Whalen、Gavin Bade、Matt Grossman一起梳理，民主党有哪些办法抑制通胀，他们可能在哪些地方和共和党找到共识，以及他们的经济议程在再次面对选民之前能走多远。<br/>原节目：WSJ What&#x27;s News「Democrats Promised to Fix the Economy. Can They?」（美东11月8日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135<br/><br/>原节目 / Original: <a href="https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135">https://www.wsj.com/podcasts/whats-news/democrats-promised-to-fix-the-economy-can-they/F22CF8F5-4A01-4235-8973-C2C308275135</a>]]></content:encoded>
-      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-11-08-wn-sun.mp3" length="11255488" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaylee-2026-11-08-wn-sun-a57eefb8</guid>
-      <pubDate>Mon, 09 Nov 2026 00:40:54 +1000</pubDate>
-      <itunes:duration>00:15:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
