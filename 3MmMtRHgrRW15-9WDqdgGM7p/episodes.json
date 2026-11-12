@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-11-12-wn-am-09112d20",
   "pubDate": "Fri, 13 Nov 2026 00:41:45 +1000",
   "pubDate_iso": "2026-11-13T00:41:45.547883+10:00"
+ },
+ {
+  "id": "2026-11-13-brief",
+  "type": "brief",
+  "date": "2026-11-13",
+  "file": "2026-11-13-brief.mp3",
+  "title": "美股晨间新闻｜11月13日｜Huang离场之后：Nvidia、Anthropic和Musk的超级合并",
+  "desc": "Nvidia临时换帅，Anthropic上市多了变数，SpaceX和Tesla合并提速，还有Bloomberg调查：被禁农药如何从中国流进巴西。",
+  "link": null,
+  "bytes": 19476309,
+  "duration": "00:26:32",
+  "guid": "kaylee-2026-11-13-brief-06b22a41",
+  "pubDate": "Fri, 13 Nov 2026 07:11:28 +1000",
+  "pubDate_iso": "2026-11-13T07:11:28.406909+10:00"
  }
 ]
