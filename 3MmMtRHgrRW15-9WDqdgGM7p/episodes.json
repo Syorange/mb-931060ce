@@ -110,5 +110,19 @@
   "guid": "kaylee-2026-11-12-brief-b9e2299a",
   "pubDate": "Thu, 12 Nov 2026 07:13:46 +1000",
   "pubDate_iso": "2026-11-12T07:13:46.711363+10:00"
+ },
+ {
+  "id": "2026-11-11-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-11",
+  "file": "2026-11-11-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月11日｜他靠客气地求，把流行金曲从流媒体消失的命运里救回来",
+  "desc": "律所员工Rob Johnson白天上班，晚上则努力把数百首被遗忘的流行金曲弄上流媒体，《华尔街日报》的Katie Deighton讲了他的做法。另外，副总统JD Vance正考虑与伊朗高级安全官员面对面会谈以结束战争，但出面主导伊朗外交也有政治风险。还有，California选民否决了美国首个财富税提案，但Paul Kiernan说该州和其他地方的进步派并没有放弃。\n原节目：WSJ What's News「How One Guy Saves Past Pop Hits From Extinction in the Age of Streaming」（美东11月11日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/how-one-guy-saves-past-pop-hits-from-extinction-in-the-age-of-streaming/15D6CF4E-235F-4B4E-8A02-096646F87512",
+  "link": "https://www.wsj.com/podcasts/whats-news/how-one-guy-saves-past-pop-hits-from-extinction-in-the-age-of-streaming/15D6CF4E-235F-4B4E-8A02-096646F87512",
+  "bytes": 9590184,
+  "duration": "00:12:49",
+  "guid": "kaylee-2026-11-11-wn-pm-bbdf5d03",
+  "pubDate": "Thu, 12 Nov 2026 12:00:44 +1000",
+  "pubDate_iso": "2026-11-12T12:00:44.835214+10:00"
  }
 ]
