@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-11-12-wn-pm-7a25a7d9",
   "pubDate": "Fri, 13 Nov 2026 12:04:31 +1000",
   "pubDate_iso": "2026-11-13T12:04:31.587894+10:00"
+ },
+ {
+  "id": "2026-11-13-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-13",
+  "file": "2026-11-13-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月13日｜舒默迎来挑战者",
+  "desc": "Jensen Huang的丑闻让商务部长Howard Lutnick的处境越来越艰难，他正在为保住职位而战。另外，Chuck Schumer在争夺下一任参议院多数党领袖的角逐中迎来了挑战者。《华尔街日报》的Rachel Wolfe还讲述了，交新朋友可以简单到只要开口问一句。\n原节目：WSJ What's News「Schumer Has Competition」（美东11月13日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/schumer-has-competition/E74AE9FE-00E6-4EFE-80D7-CC30FFB15B1B",
+  "link": "https://www.wsj.com/podcasts/whats-news/schumer-has-competition/E74AE9FE-00E6-4EFE-80D7-CC30FFB15B1B",
+  "bytes": 10998939,
+  "duration": "00:14:46",
+  "guid": "kaylee-2026-11-13-wn-am-176f0b20",
+  "pubDate": "Sat, 14 Nov 2026 00:37:19 +1000",
+  "pubDate_iso": "2026-11-14T00:37:19.039591+10:00"
  }
 ]
