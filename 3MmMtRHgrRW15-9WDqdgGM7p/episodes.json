@@ -1,33 +1,5 @@
 [
  {
-  "id": "2026-11-10-brief",
-  "type": "brief",
-  "date": "2026-11-10",
-  "file": "2026-11-10-brief.mp3",
-  "title": "美股晨间新闻｜11月10日｜Anthropic新模型赶在上市前，SpaceX自建电厂拼AI",
-  "desc": "Anthropic路演前发布Fable与Mythos；SpaceX在Starbase建燃气电厂和超级算力；Bloomberg深度：中国上亿违约者背后的催收员；快讯含Binance黑客洗钱、McDonald's选Uber。",
-  "link": null,
-  "bytes": 18544125,
-  "duration": "00:25:14",
-  "guid": "kaylee-2026-11-10-brief-fe7cd408",
-  "pubDate": "Tue, 10 Nov 2026 07:17:56 +1000",
-  "pubDate_iso": "2026-11-10T07:17:56.954234+10:00"
- },
- {
-  "id": "2026-11-09-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-11-09",
-  "file": "2026-11-09-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 11月9日｜Nvidia下跌，大盘普涨",
-  "desc": "Nvidia调查CEO Jensen Huang的消息让公司股价下滑，市值蒸发2320多亿美元，而它的竞争对手和客户却在上涨。Thomas Massie提出弹劾Pete Hegseth的条款。急诊室人满为患，需要住院的病人有时要在走廊里等24小时。\n原节目：WSJ What's News「Broad Market Rally Leaves Nvidia Decline an Outlier」（美东11月9日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/broad-market-rally-leaves-nvidia-decline-an-outlier/E790E0D1-1C33-41E6-9B2E-321446EB85F2",
-  "link": "https://www.wsj.com/podcasts/whats-news/broad-market-rally-leaves-nvidia-decline-an-outlier/E790E0D1-1C33-41E6-9B2E-321446EB85F2",
-  "bytes": 11869356,
-  "duration": "00:15:58",
-  "guid": "kaylee-2026-11-09-wn-pm-0e02defa",
-  "pubDate": "Tue, 10 Nov 2026 12:03:31 +1000",
-  "pubDate_iso": "2026-11-10T12:03:31.643390+10:00"
- },
- {
   "id": "2026-11-10-wn-am",
   "type": "wn-am",
   "date": "2026-11-10",
@@ -138,5 +110,19 @@
   "guid": "kaylee-2026-11-13-brief-06b22a41",
   "pubDate": "Fri, 13 Nov 2026 07:11:28 +1000",
   "pubDate_iso": "2026-11-13T07:11:28.406909+10:00"
+ },
+ {
+  "id": "2026-11-12-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-12",
+  "file": "2026-11-12-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月12日｜Nvidia CEO Jensen Huang 辞职，AI热潮领军人物离场",
+  "desc": "Jensen Huang是全球AI热潮的领军人物，如今辞去了Nvidia CEO一职。记者Robbie Whelan讲述董事会为何逼他离开，Asa Fitch谈临时CEO Colette Kress如何稳住公司和股价。另外，10月房屋销量创16年来新低，Nicholas Miller解释为何这反而让买家在谈判中多了一点筹码，最后还有周末的艺术与文化精选。\n原节目：WSJ What's News「Jensen Huang, a Leader of the Global AI Boom, Is Out as Nvidia CEO」（美东11月12日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/jensen-huang-a-leader-of-the-global-ai-boom-is-out-as-nvidia-ceo/69BBA8BF-83B3-4413-9B7F-F5982353084A",
+  "link": "https://www.wsj.com/podcasts/whats-news/jensen-huang-a-leader-of-the-global-ai-boom-is-out-as-nvidia-ceo/69BBA8BF-83B3-4413-9B7F-F5982353084A",
+  "bytes": 11825899,
+  "duration": "00:15:55",
+  "guid": "kaylee-2026-11-12-wn-pm-7a25a7d9",
+  "pubDate": "Fri, 13 Nov 2026 12:04:31 +1000",
+  "pubDate_iso": "2026-11-13T12:04:31.587894+10:00"
  }
 ]
