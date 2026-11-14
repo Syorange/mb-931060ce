@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-11-wn-am",
-  "type": "wn-am",
-  "date": "2026-11-11",
-  "file": "2026-11-11-wn-am.mp3",
-  "title": "What's News 中文版｜早间版 11月11日｜科技股反弹，OpenAI 亏损严重",
-  "desc": "OpenAI 第三季度营收几乎翻倍至100亿美元，但仍录得严重运营亏损，Dow Jones Newswires 的 Joe Stonor 解读它与 Anthropic 的差距。另外，Luke Vargas 在 Lisbon 的 Web Summit 上探讨人类在未来被 AI 塞满的互联网中的位置。国防部长 Pete Hegseth 躲过弹劾，但民主党预计一月掌控国会后重启。\n原节目：WSJ What's News「Tech Stocks Rebound Even As OpenAI Logs Heavy Losses」（美东11月11日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/tech-stocks-rebound-even-as-openai-logs-heavy-losses/00690DC0-F463-4DB3-9EB5-45A2F5EF7A36",
-  "link": "https://www.wsj.com/podcasts/whats-news/tech-stocks-rebound-even-as-openai-logs-heavy-losses/00690DC0-F463-4DB3-9EB5-45A2F5EF7A36",
-  "bytes": 11627882,
-  "duration": "00:15:38",
-  "guid": "kaylee-2026-11-11-wn-am-e3ed82bc",
-  "pubDate": "Thu, 12 Nov 2026 00:31:54 +1000",
-  "pubDate_iso": "2026-11-12T00:31:54.160964+10:00"
- },
- {
   "id": "2026-11-12-brief",
   "type": "brief",
   "date": "2026-11-12",
@@ -110,5 +96,19 @@
   "guid": "kaylee-2026-11-13-wn-pm-eb83c0ac",
   "pubDate": "Sat, 14 Nov 2026 12:08:27 +1000",
   "pubDate_iso": "2026-11-14T12:08:27.575355+10:00"
+ },
+ {
+  "id": "2026-11-14-wn-sat",
+  "type": "wn-sat",
+  "date": "2026-11-14",
+  "file": "2026-11-14-wn-sat.mp3",
+  "title": "What's News 中文版｜周六市场版 11月14日｜Nvidia的下一章、Coreweave看涨的订单积压、Microsoft全球宕机",
+  "desc": "黄仁勋离任之后，Nvidia股价会走向何方？Coreweave的财报说明了AI交易的什么？还有，全球经济有多依赖Microsoft？主持人Imani Moise回顾本周最大的股价波动及背后的新闻。\n原节目：WSJ What's News「What’s News in Markets: Nvidia’s Next Chapter, Coreweave’s Bullish Backlog, Microsoft’s Global Outage」（美东11月14日 sat）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-nvidias-next-chapter-coreweaves-bullish-backlog-microsofts-global-outage/2635D786-A73A-43BA-B6B3-9CC1C8CA921B",
+  "link": "https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-nvidias-next-chapter-coreweaves-bullish-backlog-microsofts-global-outage/2635D786-A73A-43BA-B6B3-9CC1C8CA921B",
+  "bytes": 4651733,
+  "duration": "00:05:58",
+  "guid": "kaylee-2026-11-14-wn-sat-77ebb505",
+  "pubDate": "Sun, 15 Nov 2026 00:36:09 +1000",
+  "pubDate_iso": "2026-11-15T00:36:09.102327+10:00"
  }
 ]
