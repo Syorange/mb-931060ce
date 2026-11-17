@@ -40,5 +40,19 @@
   "guid": "kaylee-2026-11-17-wn-am-0d85de15",
   "pubDate": "Wed, 18 Nov 2026 00:53:59 +1000",
   "pubDate_iso": "2026-11-18T00:53:59.063305+10:00"
+ },
+ {
+  "id": "2026-11-16-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-16",
+  "file": "2026-11-16-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月16日｜Sean Duffy要500亿美元，防止出行再度大乱",
+  "desc": "周末航空出行大乱之后，交通部长Sean Duffy向国会施压，要求年底前拨款500亿美元。另外，随着Jensen Huang的盟友发起让他复职的运动，财政部长Scott Bessent呼吁Nvidia董事会选一位外部人士；Trump政府还计划把Nvidia和二十多家公司列为AI国家冠军企业。\n原节目：WSJ What's News「Sean Duffy Wants $50 Billion to Prevent More Travel Chaos」（美东11月16日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/sean-duffy-wants-50-billion-to-prevent-more-travel-chaos/4E6FE17C-6F10-4093-9D28-11D55841785D",
+  "link": "https://www.wsj.com/podcasts/whats-news/sean-duffy-wants-50-billion-to-prevent-more-travel-chaos/4E6FE17C-6F10-4093-9D28-11D55841785D",
+  "bytes": 9453615,
+  "duration": "00:12:37",
+  "guid": "kaylee-2026-11-16-wn-am-527b6e32",
+  "pubDate": "Wed, 18 Nov 2026 00:56:15 +1000",
+  "pubDate_iso": "2026-11-18T00:56:15.637751+10:00"
  }
 ]
