@@ -54,5 +54,19 @@
   "guid": "kaylee-2026-11-16-wn-am-527b6e32",
   "pubDate": "Wed, 18 Nov 2026 00:56:15 +1000",
   "pubDate_iso": "2026-11-18T00:56:15.637751+10:00"
+ },
+ {
+  "id": "2026-11-18-brief",
+  "type": "brief",
+  "date": "2026-11-18",
+  "file": "2026-11-18-brief.mp3",
+  "title": "美股晨间新闻｜11月18日｜SpaceX借钱买芯片，AI大戏与JetBlue的油价困局",
+  "desc": "SpaceX用表外融资买Nvidia芯片、OpenAI新模型撞上Anthropic上市周、JetBlue与中东油轮危机的深度故事。",
+  "link": null,
+  "bytes": 17122281,
+  "duration": "00:23:16",
+  "guid": "kaylee-2026-11-18-brief-7ad902b8",
+  "pubDate": "Wed, 18 Nov 2026 07:13:59 +1000",
+  "pubDate_iso": "2026-11-18T07:13:59.226477+10:00"
  }
 ]
