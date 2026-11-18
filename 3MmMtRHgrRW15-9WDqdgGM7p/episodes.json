@@ -68,5 +68,19 @@
   "guid": "kaylee-2026-11-18-brief-7ad902b8",
   "pubDate": "Wed, 18 Nov 2026 07:13:59 +1000",
   "pubDate_iso": "2026-11-18T07:13:59.226477+10:00"
+ },
+ {
+  "id": "2026-11-17-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-17",
+  "file": "2026-11-17-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月17日｜FAA因停飞调查暂停部分升级",
+  "desc": "全国性停飞导致2万个航班取消后，FAA暂时停止安装部分路由器，Drew FitzGerald讲解目前所知的原因。另外，Jensen Huang说他愿意回来担任Nvidia CEO，《华尔街日报》独家报道SEC正在调查Nvidia；Chris Van Hollen挑战Chuck Schumer争夺参议院民主党领袖。\n原节目：WSJ What's News「FAA Pauses Some Upgrades During Ground Stop Investigation」（美东11月17日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/faa-pauses-some-upgrades-during-ground-stop-investigation/A3A02688-F142-408E-B239-FA09E722F883",
+  "link": "https://www.wsj.com/podcasts/whats-news/faa-pauses-some-upgrades-during-ground-stop-investigation/A3A02688-F142-408E-B239-FA09E722F883",
+  "bytes": 9655061,
+  "duration": "00:12:54",
+  "guid": "kaylee-2026-11-17-wn-pm-e43b6335",
+  "pubDate": "Wed, 18 Nov 2026 12:03:48 +1000",
+  "pubDate_iso": "2026-11-18T12:03:48.040849+10:00"
  }
 ]
