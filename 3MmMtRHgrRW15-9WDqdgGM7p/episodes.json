@@ -96,5 +96,19 @@
   "guid": "kaylee-2026-11-18-wn-am-12e2b955",
   "pubDate": "Thu, 19 Nov 2026 00:42:53 +1000",
   "pubDate_iso": "2026-11-19T00:42:53.799354+10:00"
+ },
+ {
+  "id": "2026-11-19-brief",
+  "type": "brief",
+  "date": "2026-11-19",
+  "file": "2026-11-19-brief.mp3",
+  "title": "11月19日｜Anthropic上市前夜与Nvidia接班大戏",
+  "desc": "Anthropic订单热到要加价加量，Nvidia猎头找上Arm老板，Fed纪要比预期更鹰",
+  "link": null,
+  "bytes": 16977578,
+  "duration": "00:23:04",
+  "guid": "kaylee-2026-11-19-brief-77420eb3",
+  "pubDate": "Thu, 19 Nov 2026 07:14:56 +1000",
+  "pubDate_iso": "2026-11-19T07:14:56.278352+10:00"
  }
 ]
