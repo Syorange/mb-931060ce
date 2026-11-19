@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-11-18-wn-pm-144260a3",
   "pubDate": "Thu, 19 Nov 2026 12:05:50 +1000",
   "pubDate_iso": "2026-11-19T12:05:50.302655+10:00"
+ },
+ {
+  "id": "2026-11-19-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-19",
+  "file": "2026-11-19-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月19日｜Anthropic上市：又一场创纪录的IPO",
+  "desc": "Anthropic在筹集810亿美元后准备登陆Nasdaq，超过SpaceX今年6月的750亿美元。WSJ金融编辑Alex Frangos谈这次上市的微妙时机。另外，Trump在深圳会见Xi Jinping和Vladimir Putin，GTA新作等了13年后终于发售。\n原节目：WSJ What's News「It’s Time for (Another) Record IPO」（美东11月19日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/its-time-for-another-record-ipo/0744A4EC-7867-4CC8-80E1-361D3DF5FD67",
+  "link": "https://www.wsj.com/podcasts/whats-news/its-time-for-another-record-ipo/0744A4EC-7867-4CC8-80E1-361D3DF5FD67",
+  "bytes": 11900777,
+  "duration": "00:16:01",
+  "guid": "kaylee-2026-11-19-wn-am-4b00a355",
+  "pubDate": "Fri, 20 Nov 2026 00:47:27 +1000",
+  "pubDate_iso": "2026-11-20T00:47:27.097761+10:00"
  }
 ]
