@@ -138,5 +138,19 @@
   "guid": "kaylee-2026-11-19-wn-am-4b00a355",
   "pubDate": "Fri, 20 Nov 2026 00:47:27 +1000",
   "pubDate_iso": "2026-11-20T00:47:27.097761+10:00"
+ },
+ {
+  "id": "2026-11-20-brief",
+  "type": "brief",
+  "date": "2026-11-20",
+  "file": "2026-11-20-brief.mp3",
+  "title": "美股晨间新闻｜11月20日｜Anthropic史上最大IPO登场，大盘却遭遇大抛售",
+  "desc": "Anthropic挂牌首日冲向两万亿美元估值后回落；一份被压下四年的报告早就预警了Salt Typhoon；Alibaba用自研芯片突围，香港New World陷债务清算。",
+  "link": null,
+  "bytes": 19189207,
+  "duration": "00:26:08",
+  "guid": "kaylee-2026-11-20-brief-46f3d5c1",
+  "pubDate": "Fri, 20 Nov 2026 07:14:14 +1000",
+  "pubDate_iso": "2026-11-20T07:14:14.710658+10:00"
  }
 ]
