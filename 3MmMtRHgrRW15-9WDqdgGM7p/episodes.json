@@ -110,5 +110,19 @@
   "guid": "kaylee-2026-11-19-brief-77420eb3",
   "pubDate": "Thu, 19 Nov 2026 07:14:56 +1000",
   "pubDate_iso": "2026-11-19T07:14:56.278352+10:00"
+ },
+ {
+  "id": "2026-11-18-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-18",
+  "file": "2026-11-18-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月18日｜对华鹰派在 Nvidia 丑闻后如愿以偿，重掌华盛顿话语权",
+  "desc": "Tech policy 记者 Amrith Ramkumar 解释 Jensen Huang 的下台如何让想要打压中国的监管者和议员更有底气。另外，Anthropic 把IPO定价为每股83美元，显示出投资者对这家AI大公司的需求强劲。此外，美国安全官员在国会作证说，一连串技术故障并不是对美国的攻击。\n原节目：WSJ What's News「China Hawks Get Their Way in Washington After Nvidia Scandal」（美东11月18日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/china-hawks-get-their-way-in-washington-after-nvidia-scandal/687F5148-ED06-45A6-AC8E-95F0B2A88694",
+  "link": "https://www.wsj.com/podcasts/whats-news/china-hawks-get-their-way-in-washington-after-nvidia-scandal/687F5148-ED06-45A6-AC8E-95F0B2A88694",
+  "bytes": 9127296,
+  "duration": "00:12:10",
+  "guid": "kaylee-2026-11-18-wn-pm-144260a3",
+  "pubDate": "Thu, 19 Nov 2026 12:05:50 +1000",
+  "pubDate_iso": "2026-11-19T12:05:50.302655+10:00"
  }
 ]
