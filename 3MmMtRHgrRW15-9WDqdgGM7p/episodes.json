@@ -152,5 +152,19 @@
   "guid": "kaylee-2026-11-20-brief-46f3d5c1",
   "pubDate": "Fri, 20 Nov 2026 07:14:14 +1000",
   "pubDate_iso": "2026-11-20T07:14:14.710658+10:00"
+ },
+ {
+  "id": "2026-11-19-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-19",
+  "file": "2026-11-19-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月19日｜Anthropic完成历史性IPO，但对AI的疑虑仍在",
+  "desc": "Anthropic完成了创纪录的IPO，收盘上涨17%。WSJ的Asa Fitch讲述当天的大赢家，以及为什么围绕这家公司的热度仍未能阻止大盘整体下跌。另外，Jennifer Hiller解释AI热潮下的data centers如何让今年商业用电量首次超过居民用电量，Feliz Solomon则讲述国际法院裁定Myanmar对Rohingya实施种族灭绝所确立的法律先例。\n原节目：WSJ What's News「Anthropic Pulls Off Historic IPO, But AI Doubts Remain」（美东11月19日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/anthropic-pulls-off-historic-ipo-but-ai-doubts-remain/435D3A1E-CF0A-4B99-8CFF-7011232A1EC2",
+  "link": "https://www.wsj.com/podcasts/whats-news/anthropic-pulls-off-historic-ipo-but-ai-doubts-remain/435D3A1E-CF0A-4B99-8CFF-7011232A1EC2",
+  "bytes": 10977741,
+  "duration": "00:14:44",
+  "guid": "kaylee-2026-11-19-wn-pm-c145b40e",
+  "pubDate": "Fri, 20 Nov 2026 12:01:00 +1000",
+  "pubDate_iso": "2026-11-20T12:01:00.267199+10:00"
  }
 ]
