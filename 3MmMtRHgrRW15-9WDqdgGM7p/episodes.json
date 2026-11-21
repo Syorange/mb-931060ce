@@ -124,5 +124,19 @@
   "guid": "kaylee-2026-11-20-wn-bonus-2b44973d",
   "pubDate": "Sat, 21 Nov 2026 07:42:48 +1000",
   "pubDate_iso": "2026-11-21T07:42:48.631011+10:00"
+ },
+ {
+  "id": "2026-11-20-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-20",
+  "file": "2026-11-20-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月20日｜AI交易翻车的一周",
+  "desc": "尽管Nvidia财报强劲、Anthropic创纪录上市，科技股这周仍经历了多年来最糟的一周，Hannah Erin Lang解释投资者为何对AI交易转冷。Philip Wegmann谈President Trump对海外建数据中心的公司征税的表态，Christopher Mims则体验了Throne在纽约安装的高科技公共厕所。\n原节目：WSJ What's News「The Week the Wheels Came Off the AI Trade」（美东11月20日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-week-the-wheels-came-off-the-ai-trade/E11F58B1-6E57-4E15-9915-7922343552C5",
+  "link": "https://www.wsj.com/podcasts/whats-news/the-week-the-wheels-came-off-the-ai-trade/E11F58B1-6E57-4E15-9915-7922343552C5",
+  "bytes": 11031945,
+  "duration": "00:14:49",
+  "guid": "kaylee-2026-11-20-wn-pm-5ff0eb9e",
+  "pubDate": "Sat, 21 Nov 2026 12:02:19 +1000",
+  "pubDate_iso": "2026-11-21T12:02:19.725111+10:00"
  }
 ]
