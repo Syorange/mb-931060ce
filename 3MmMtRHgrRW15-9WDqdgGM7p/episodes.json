@@ -82,5 +82,19 @@
   "guid": "kaylee-2026-11-23-wn-am-8cdd166d",
   "pubDate": "Tue, 24 Nov 2026 00:43:53 +1000",
   "pubDate_iso": "2026-11-24T00:43:53.298503+10:00"
+ },
+ {
+  "id": "2026-11-24-brief",
+  "type": "brief",
+  "date": "2026-11-24",
+  "file": "2026-11-24-brief.mp3",
+  "title": "美股晨间新闻｜11月24日｜Jensen Huang闪电回归，Trump亲自出手",
+  "desc": "Nvidia董事会在Trump推动下请回Jensen Huang；美国收紧东南亚AI芯片出口；能源账单、央行与2018年剧本。",
+  "link": null,
+  "bytes": 17779647,
+  "duration": "00:24:11",
+  "guid": "kaylee-2026-11-24-brief-7eb56b36",
+  "pubDate": "Tue, 24 Nov 2026 07:09:55 +1000",
+  "pubDate_iso": "2026-11-24T07:09:55.214133+10:00"
  }
 ]
