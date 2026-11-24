@@ -1,33 +1,5 @@
 [
  {
-  "id": "2026-11-20-wn-pm",
-  "type": "wn-pm",
-  "date": "2026-11-20",
-  "file": "2026-11-20-wn-pm.mp3",
-  "title": "What's News 中文版｜晚间版 11月20日｜AI交易翻车的一周",
-  "desc": "尽管Nvidia财报强劲、Anthropic创纪录上市，科技股这周仍经历了多年来最糟的一周，Hannah Erin Lang解释投资者为何对AI交易转冷。Philip Wegmann谈President Trump对海外建数据中心的公司征税的表态，Christopher Mims则体验了Throne在纽约安装的高科技公共厕所。\n原节目：WSJ What's News「The Week the Wheels Came Off the AI Trade」（美东11月20日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-week-the-wheels-came-off-the-ai-trade/E11F58B1-6E57-4E15-9915-7922343552C5",
-  "link": "https://www.wsj.com/podcasts/whats-news/the-week-the-wheels-came-off-the-ai-trade/E11F58B1-6E57-4E15-9915-7922343552C5",
-  "bytes": 11031945,
-  "duration": "00:14:49",
-  "guid": "kaylee-2026-11-20-wn-pm-5ff0eb9e",
-  "pubDate": "Sat, 21 Nov 2026 12:02:19 +1000",
-  "pubDate_iso": "2026-11-21T12:02:19.725111+10:00"
- },
- {
-  "id": "2026-11-21-wn-sat",
-  "type": "wn-sat",
-  "date": "2026-11-21",
-  "file": "2026-11-21-wn-sat.mp3",
-  "title": "What's News 中文版｜周六市场版 11月21日｜Anthropic上市、Nvidia风波与GTA VI",
-  "desc": "Anthropic到底值多少钱？投资者对Nvidia强劲的财报放心了吗？另外，Grand Theft Auto VI会带动Take-Two Interactive的股价吗？主持人Vicky Ge Huang回顾本周最大的股市波动及背后的新闻。\n原节目：WSJ What's News「What’s News in Markets: Anthropic IPO, Nvidia Drama, ‘GTA VI’」（美东11月21日 sat）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-anthropic-ipo-nvidia-drama-gta-vi/8E4BF0B0-2A7B-43C8-B99E-D2D12142B5C9",
-  "link": "https://www.wsj.com/podcasts/whats-news/whats-news-in-markets-anthropic-ipo-nvidia-drama-gta-vi/8E4BF0B0-2A7B-43C8-B99E-D2D12142B5C9",
-  "bytes": 4139344,
-  "duration": "00:05:15",
-  "guid": "kaylee-2026-11-21-wn-sat-9f45144f",
-  "pubDate": "Sun, 22 Nov 2026 00:40:10 +1000",
-  "pubDate_iso": "2026-11-22T00:40:10.061816+10:00"
- },
- {
   "id": "2026-11-22-wn-sun",
   "type": "wn-sun",
   "date": "2026-11-22",
@@ -96,5 +68,19 @@
   "guid": "kaylee-2026-11-23-wn-pm-6aa80ec8",
   "pubDate": "Tue, 24 Nov 2026 12:01:33 +1000",
   "pubDate_iso": "2026-11-24T12:01:33.976610+10:00"
+ },
+ {
+  "id": "2026-11-24-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-24",
+  "file": "2026-11-24-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月24日｜Nvidia的“关键人物风险”比以往更大",
+  "desc": "Nvidia股价盘前下跌，尽管昨天刚刚创下历史性大涨；Jensen Huang出人意料地重返CEO职位，让基金经理们措手不及。Dow Jones Global Risk Insights的Angela Mancini指出，Nvidia面临多重风险，尤其是来自议员日益加大的审查。此外，美国认为Iran可能是针对船只的数十起新网络攻击的幕后推手；我们还会探讨，为什么追求更长寿命还未能与过得更好相一致。\n原节目：WSJ What's News「Nvidia’s ‘Key-Man Risk’ Is Bigger Than Ever」（美东11月24日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/nvidias-key-man-risk-is-bigger-than-ever/CD6EB73A-8801-4DDB-9CE7-5AA81CA6705A",
+  "link": "https://www.wsj.com/podcasts/whats-news/nvidias-key-man-risk-is-bigger-than-ever/CD6EB73A-8801-4DDB-9CE7-5AA81CA6705A",
+  "bytes": 10935706,
+  "duration": "00:14:41",
+  "guid": "kaylee-2026-11-24-wn-am-fa37aacb",
+  "pubDate": "Wed, 25 Nov 2026 00:47:14 +1000",
+  "pubDate_iso": "2026-11-25T00:47:14.134461+10:00"
  }
 ]
