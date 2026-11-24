@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-20-wn-bonus",
-  "type": "wn-bonus",
-  "date": "2026-11-20",
-  "file": "2026-11-20-wn-bonus.mp3",
-  "title": "What's News 中文版｜特别加播 11月20日｜美国最大零售商说：消费者仍在花钱",
-  "desc": "Walmart和Target在最新一季都受益于健康的消费支出，对包含假日购物季的当前季度是个好兆头。Target的复苏在加强，Walmart的电商业务则抵消了美国门店销售的下滑，两家公司都上调了全年指引。《华尔街日报》记者Sarah Nassauer详细解读了这些财报。\n原节目：WSJ What's News「America’s Biggest Retailers Say Shoppers Keep Spending」（美东11月20日 bonus）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/americas-biggest-retailers-say-shoppers-keep-spending/34FDB1E6-7090-48AA-8274-8209BAC4FC9B",
-  "link": "https://www.wsj.com/podcasts/whats-news/americas-biggest-retailers-say-shoppers-keep-spending/34FDB1E6-7090-48AA-8274-8209BAC4FC9B",
-  "bytes": 4627908,
-  "duration": "00:05:56",
-  "guid": "kaylee-2026-11-20-wn-bonus-2b44973d",
-  "pubDate": "Sat, 21 Nov 2026 07:42:48 +1000",
-  "pubDate_iso": "2026-11-21T07:42:48.631011+10:00"
- },
- {
   "id": "2026-11-20-wn-pm",
   "type": "wn-pm",
   "date": "2026-11-20",
@@ -96,5 +82,19 @@
   "guid": "kaylee-2026-11-24-brief-7eb56b36",
   "pubDate": "Tue, 24 Nov 2026 07:09:55 +1000",
   "pubDate_iso": "2026-11-24T07:09:55.214133+10:00"
+ },
+ {
+  "id": "2026-11-23-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-23",
+  "file": "2026-11-23-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月23日｜Jensen Huang重返Nvidia，接下来会怎样？",
+  "desc": "Nvidia董事会恢复Jensen Huang的CEO职务，华尔街大涨、Trump支持，国会则提出批评。Heard on the Street编辑Aaron Back分析Huang第二次执掌Nvidia会有什么不同。另外，Trump下令暂停Army在Iowa引爆有毒铅爆炸物的计划。\n原节目：WSJ What's News「Jensen Huang Is Back at Nvidia. What’s Next?」（美东11月23日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/jensen-huang-is-back-at-nvidia-whats-next/E28887AA-C69B-4605-ABCE-A534256D2EAE",
+  "link": "https://www.wsj.com/podcasts/whats-news/jensen-huang-is-back-at-nvidia-whats-next/E28887AA-C69B-4605-ABCE-A534256D2EAE",
+  "bytes": 7957806,
+  "duration": "00:10:33",
+  "guid": "kaylee-2026-11-23-wn-pm-6aa80ec8",
+  "pubDate": "Tue, 24 Nov 2026 12:01:33 +1000",
+  "pubDate_iso": "2026-11-24T12:01:33.976610+10:00"
  }
 ]
