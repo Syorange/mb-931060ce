@@ -82,5 +82,19 @@
   "guid": "kaylee-2026-11-24-wn-am-fa37aacb",
   "pubDate": "Wed, 25 Nov 2026 00:47:14 +1000",
   "pubDate_iso": "2026-11-25T00:47:14.134461+10:00"
+ },
+ {
+  "id": "2026-11-25-brief",
+  "type": "brief",
+  "date": "2026-11-25",
+  "file": "2026-11-25-brief.mp3",
+  "title": "美股晨间新闻｜11月25日｜Anthropic跌破发行价，Hormuz连拖船都拉黑",
+  "desc": "Anthropic上市四天跌破发行价，AI巨头的控制权之争；Iran把拖船列入Hormuz黑名单、OPEC+会前内讧；AI数据中心和美国工厂抢电。",
+  "link": null,
+  "bytes": 16879426,
+  "duration": "00:22:56",
+  "guid": "kaylee-2026-11-25-brief-5341684e",
+  "pubDate": "Wed, 25 Nov 2026 07:12:19 +1000",
+  "pubDate_iso": "2026-11-25T07:12:19.718431+10:00"
  }
 ]
