@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-23-brief",
-  "type": "brief",
-  "date": "2026-11-23",
-  "file": "2026-11-23-brief.mp3",
-  "title": "美股晨间新闻｜11月23日｜周末救火：Bessent喊话Fed，亚洲出手托市",
-  "desc": "周末各方为AI暴跌救火；Bloomberg深度：中国出口机器如何改写全球制造；OpenAI首席科学家提议给AI设限",
-  "link": null,
-  "bytes": 18316513,
-  "duration": "00:24:55",
-  "guid": "kaylee-2026-11-23-brief-90fffd8a",
-  "pubDate": "Mon, 23 Nov 2026 07:08:17 +1000",
-  "pubDate_iso": "2026-11-23T07:08:17.257297+10:00"
- },
- {
   "id": "2026-11-23-wn-am",
   "type": "wn-am",
   "date": "2026-11-23",
@@ -110,5 +96,19 @@
   "guid": "kaylee-2026-11-25-wn-am-8d3f917d",
   "pubDate": "Thu, 26 Nov 2026 00:46:37 +1000",
   "pubDate_iso": "2026-11-26T00:46:37.177366+10:00"
+ },
+ {
+  "id": "2026-11-26-brief",
+  "type": "brief",
+  "date": "2026-11-26",
+  "file": "2026-11-26-brief.mp3",
+  "title": "美股晨间新闻｜11月26日｜Musk把数据中心送上太空，地上的AI贷款却冻结了",
+  "desc": "SpaceX获批轨道数据中心、中国相关AI贷款因芯片管制停摆、海湾到欧洲的石油链条，以及银行为防AI黑客打补丁反致宕机。",
+  "link": null,
+  "bytes": 16526390,
+  "duration": "00:22:26",
+  "guid": "kaylee-2026-11-26-brief-407c4fc0",
+  "pubDate": "Thu, 26 Nov 2026 07:09:24 +1000",
+  "pubDate_iso": "2026-11-26T07:09:24.313956+10:00"
  }
 ]

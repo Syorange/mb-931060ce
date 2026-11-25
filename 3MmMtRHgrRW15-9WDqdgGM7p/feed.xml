@@ -13,7 +13,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 26 Nov 2026 00:46:37 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:09:24 +1000</lastBuildDate>
+    <item>
+      <title>美股晨间新闻｜11月26日｜Musk把数据中心送上太空，地上的AI贷款却冻结了</title>
+      <description>SpaceX获批轨道数据中心、中国相关AI贷款因芯片管制停摆、海湾到欧洲的石油链条，以及银行为防AI黑客打补丁反致宕机。</description>
+      <itunes:summary>SpaceX获批轨道数据中心、中国相关AI贷款因芯片管制停摆、海湾到欧洲的石油链条，以及银行为防AI黑客打补丁反致宕机。</itunes:summary>
+      <content:encoded><![CDATA[SpaceX获批轨道数据中心、中国相关AI贷款因芯片管制停摆、海湾到欧洲的石油链条，以及银行为防AI黑客打补丁反致宕机。]]></content:encoded>
+      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-11-26-brief.mp3" length="16526390" type="audio/mpeg"/>
+      <guid isPermaLink="false">kaylee-2026-11-26-brief-407c4fc0</guid>
+      <pubDate>Thu, 26 Nov 2026 07:09:24 +1000</pubDate>
+      <itunes:duration>00:22:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
+    </item>
     <item>
       <title>What&#x27;s News 中文版｜早间版 11月25日｜Medicare for All 是否已经触手可及？</title>
       <description>Anthropic 的股价继续跌破公司83美元的发行价，成为近年来大型上市中崩盘最快的案例之一。《华尔街日报》财经编辑 Alex Frangos 解读这轮科技股新一轮抛售。另外，民主党和 Trump 总统似乎在医改上有了共识。版权法能否挡住中国汽车？Jaguar Land Rover 正把外观相似的 SUV 告上法庭。
@@ -111,19 +124,6 @@
       <guid isPermaLink="false">kaylee-2026-11-23-wn-am-8cdd166d</guid>
       <pubDate>Tue, 24 Nov 2026 00:43:53 +1000</pubDate>
       <itunes:duration>00:13:34</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
-    </item>
-    <item>
-      <title>美股晨间新闻｜11月23日｜周末救火：Bessent喊话Fed，亚洲出手托市</title>
-      <description>周末各方为AI暴跌救火；Bloomberg深度：中国出口机器如何改写全球制造；OpenAI首席科学家提议给AI设限</description>
-      <itunes:summary>周末各方为AI暴跌救火；Bloomberg深度：中国出口机器如何改写全球制造；OpenAI首席科学家提议给AI设限</itunes:summary>
-      <content:encoded><![CDATA[周末各方为AI暴跌救火；Bloomberg深度：中国出口机器如何改写全球制造；OpenAI首席科学家提议给AI设限]]></content:encoded>
-      <enclosure url="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/ep/2026-11-23-brief.mp3" length="18316513" type="audio/mpeg"/>
-      <guid isPermaLink="false">kaylee-2026-11-23-brief-90fffd8a</guid>
-      <pubDate>Mon, 23 Nov 2026 07:08:17 +1000</pubDate>
-      <itunes:duration>00:24:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://syorange.github.io/mb-931060ce/3MmMtRHgrRW15-9WDqdgGM7p/cover.jpg"/>
