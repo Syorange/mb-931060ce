@@ -1,19 +1,5 @@
 [
  {
-  "id": "2026-11-22-wn-sun",
-  "type": "wn-sun",
-  "date": "2026-11-22",
-  "file": "2026-11-22-wn-sun.mp3",
-  "title": "What's News 中文版｜周日特别版 11月22日｜《侠盗猎车手VI》会是游戏业最后的大作吗？",
-  "desc": "Grand Theft Auto VI的发布预计将成为娱乐史上最赚钱的事件之一，同时也标志着电子游戏行业的一个转折点，行业正面临大规模裁员、商业模式转向，以及AI未来角色的疑问。资深游戏记者Chris Plante与主持人Pierre Bienaimé一起探讨行业接下来会走向何方。\n原节目：WSJ What's News「Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?」（美东11月22日 sun）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/is-grand-theft-auto-vi-gamings-last-blockbuster/39EADABB-CBA7-4A5B-8559-EBE1C3C8D5DF",
-  "link": "https://www.wsj.com/podcasts/whats-news/is-grand-theft-auto-vi-gamings-last-blockbuster/39EADABB-CBA7-4A5B-8559-EBE1C3C8D5DF",
-  "bytes": 9326203,
-  "duration": "00:12:27",
-  "guid": "kaylee-2026-11-22-wn-sun-76c55bf2",
-  "pubDate": "Mon, 23 Nov 2026 00:45:02 +1000",
-  "pubDate_iso": "2026-11-23T00:45:02.919167+10:00"
- },
- {
   "id": "2026-11-23-brief",
   "type": "brief",
   "date": "2026-11-23",
@@ -110,5 +96,19 @@
   "guid": "kaylee-2026-11-24-wn-pm-8c0b50a3",
   "pubDate": "Wed, 25 Nov 2026 12:04:12 +1000",
   "pubDate_iso": "2026-11-25T12:04:12.328260+10:00"
+ },
+ {
+  "id": "2026-11-25-wn-am",
+  "type": "wn-am",
+  "date": "2026-11-25",
+  "file": "2026-11-25-wn-am.mp3",
+  "title": "What's News 中文版｜早间版 11月25日｜Medicare for All 是否已经触手可及？",
+  "desc": "Anthropic 的股价继续跌破公司83美元的发行价，成为近年来大型上市中崩盘最快的案例之一。《华尔街日报》财经编辑 Alex Frangos 解读这轮科技股新一轮抛售。另外，民主党和 Trump 总统似乎在医改上有了共识。版权法能否挡住中国汽车？Jaguar Land Rover 正把外观相似的 SUV 告上法庭。\n原节目：WSJ What's News「Is Medicare for All Within Reach?」（美东11月25日 A.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/is-medicare-for-all-within-reach/47835CF4-DE8B-4542-9010-143F5571FE40",
+  "link": "https://www.wsj.com/podcasts/whats-news/is-medicare-for-all-within-reach/47835CF4-DE8B-4542-9010-143F5571FE40",
+  "bytes": 14553555,
+  "duration": "00:19:42",
+  "guid": "kaylee-2026-11-25-wn-am-8d3f917d",
+  "pubDate": "Thu, 26 Nov 2026 00:46:37 +1000",
+  "pubDate_iso": "2026-11-26T00:46:37.177366+10:00"
  }
 ]
