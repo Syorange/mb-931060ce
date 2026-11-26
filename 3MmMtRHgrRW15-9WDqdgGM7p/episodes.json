@@ -110,5 +110,19 @@
   "guid": "kaylee-2026-11-26-brief-407c4fc0",
   "pubDate": "Thu, 26 Nov 2026 07:09:24 +1000",
   "pubDate_iso": "2026-11-26T07:09:24.313956+10:00"
+ },
+ {
+  "id": "2026-11-25-wn-pm",
+  "type": "wn-pm",
+  "date": "2026-11-25",
+  "file": "2026-11-25-wn-pm.mp3",
+  "title": "What's News 中文版｜晚间版 11月25日｜照料美国老龄人口的代价越来越高",
+  "desc": "《华尔街日报》美国经济记者 Jeanne Whalen 讲述，照料美国老年人的费用正在打乱家庭预算，也在改变成年子女的个人生活。贸易记者 Gavin Bade 带我们梳理 Trump 政府的新关税计划。另外，在如何处置有毒铅炸药争议数日之后，美国陆军在 Iowa 一座弹药厂引爆了近一万磅这种材料。\n原节目：WSJ What's News「The Growing Cost of Caring for America’s Aging Population」（美东11月25日 P.M. Edition）。本集为原节目的中文逐句翻译与AI配音，略去广告，仅供个人收听，非WSJ官方出品。原节目链接：https://www.wsj.com/podcasts/whats-news/the-growing-cost-of-caring-for-americas-aging-population/726DECE1-16D1-4FD1-9EB8-E79E09D4E893",
+  "link": "https://www.wsj.com/podcasts/whats-news/the-growing-cost-of-caring-for-americas-aging-population/726DECE1-16D1-4FD1-9EB8-E79E09D4E893",
+  "bytes": 10839891,
+  "duration": "00:14:33",
+  "guid": "kaylee-2026-11-25-wn-pm-7303090e",
+  "pubDate": "Thu, 26 Nov 2026 12:09:12 +1000",
+  "pubDate_iso": "2026-11-26T12:09:12.941726+10:00"
  }
 ]
